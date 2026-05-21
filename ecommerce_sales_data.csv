@@ -1,0 +1,1001 @@
+Order_ID,Date,Month,Quarter,Category,Product,City,State,Quantity,Unit_Price,Discount_Percent,Final_Amount,Payment_Method,Order_Status,Customer_Rating
+ORD10000,2023-11-24,November,Q4,Sports,Football,Hyderabad,Telangana,2,3616.92,7.0,6727.47,Cash on Delivery,Delivered,3.3
+ORD10001,2023-02-27,February,Q1,Grocery,Rice 5kg,Kolkata,West Bengal,3,35001.7,38.0,65103.16,Net Banking,Returned,3.8
+ORD10002,2023-01-13,January,Q1,Clothing,Jacket,Mumbai,Maharashtra,4,36739.97,24.0,111689.51,Debit Card,Cancelled,2.6
+ORD10003,2023-05-21,May,Q2,Electronics,Headphones,Jaipur,Rajasthan,1,38167.29,7.0,35495.58,Net Banking,Delivered,3.8
+ORD10004,2023-05-06,May,Q2,Home & Kitchen,Water Bottle,Pune,Maharashtra,4,48454.31,19.0,156991.96,UPI,Delivered,3.5
+ORD10005,2023-04-25,April,Q2,Home & Kitchen,Bedsheet,Pune,Maharashtra,4,14446.48,38.0,35827.27,Cash on Delivery,Delivered,4.5
+ORD10006,2023-03-13,March,Q1,Grocery,Rice 5kg,Madurai,Tamil Nadu,3,16197.53,39.0,29641.48,Cash on Delivery,Delivered,3.5
+ORD10007,2023-02-22,February,Q1,Grocery,Tea 250g,Mumbai,Maharashtra,2,25946.05,25.0,38919.07,Net Banking,Delivered,3.7
+ORD10008,2023-12-13,December,Q4,Sports,Yoga Mat,Ahmedabad,Gujarat,2,46387.25,18.0,76075.09,Credit Card,Delivered,4.2
+ORD10009,2023-10-07,October,Q4,Sports,Football,Hyderabad,Telangana,5,733.04,16.0,3078.77,Credit Card,Returned,3.1
+ORD10010,2023-02-14,February,Q1,Clothing,Jeans,Kolkata,West Bengal,3,25468.16,11.0,67999.99,Net Banking,Delivered,4.6
+ORD10011,2023-10-30,October,Q4,Grocery,Biscuits,Bangalore,Karnataka,4,9570.99,24.0,29095.81,Debit Card,Delivered,4.4
+ORD10012,2023-08-05,August,Q3,Books,UPSC Guide,Madurai,Tamil Nadu,5,13395.27,0.0,66976.35,Cash on Delivery,Cancelled,4.3
+ORD10013,2023-01-17,January,Q1,Grocery,Dal 1kg,Kolkata,West Bengal,5,24242.85,13.0,105456.4,Net Banking,Returned,4.4
+ORD10014,2023-01-16,January,Q1,Beauty,Shampoo,Chennai,Tamil Nadu,5,19179.39,34.0,63291.99,UPI,Returned,3.5
+ORD10015,2023-02-17,February,Q1,Toys,RC Car,Bangalore,Karnataka,4,48242.98,5.0,183323.32,UPI,Delivered,4.9
+ORD10016,2023-04-22,April,Q2,Grocery,Rice 5kg,Ahmedabad,Gujarat,4,816.61,6.0,3070.45,Debit Card,Delivered,4.7
+ORD10017,2023-04-30,April,Q2,Grocery,Oil 1L,Madurai,Tamil Nadu,5,34650.59,26.0,128207.18,Cash on Delivery,Returned,4.6
+ORD10018,2023-09-16,September,Q3,Beauty,Lipstick,Ahmedabad,Gujarat,1,30892.1,9.0,28111.81,UPI,Delivered,4.2
+ORD10019,2023-11-05,November,Q4,Clothing,Kurta,Delhi,Delhi,1,22211.74,28.0,15992.45,Credit Card,Delivered,4.8
+ORD10020,2023-01-14,January,Q1,Electronics,Headphones,Madurai,Tamil Nadu,3,21562.81,10.0,58219.59,Debit Card,Delivered,3.5
+ORD10021,2023-10-15,October,Q4,Home & Kitchen,Mixer Grinder,Jaipur,Rajasthan,4,31004.53,10.0,111616.31,Debit Card,Delivered,4.8
+ORD10022,2023-04-12,April,Q2,Grocery,Oil 1L,Kolkata,West Bengal,3,33358.69,36.0,64048.68,UPI,Cancelled,3.7
+ORD10023,2023-11-29,November,Q4,Home & Kitchen,Mixer Grinder,Kolkata,West Bengal,3,49383.2,12.0,130371.65,UPI,Returned,4.9
+ORD10024,2023-12-26,December,Q4,Books,Python Guide,Pune,Maharashtra,4,5377.33,15.0,18282.92,UPI,Delivered,3.4
+ORD10025,2023-10-07,October,Q4,Electronics,Smart Watch,Hyderabad,Telangana,1,28318.15,27.0,20672.25,Credit Card,Cancelled,4.4
+ORD10026,2023-08-03,August,Q3,Grocery,Oil 1L,Chennai,Tamil Nadu,5,40106.5,9.0,182484.58,UPI,Delivered,3.0
+ORD10027,2023-04-23,April,Q2,Clothing,T-Shirt,Hyderabad,Telangana,4,1716.56,15.0,5836.3,UPI,Delivered,2.8
+ORD10028,2023-08-18,August,Q3,Toys,Board Game,Chennai,Tamil Nadu,2,39336.31,35.0,51137.2,Cash on Delivery,Delivered,3.4
+ORD10029,2023-10-29,October,Q4,Home & Kitchen,Bedsheet,Kolkata,West Bengal,3,37340.64,14.0,96338.85,Credit Card,Delivered,2.8
+ORD10030,2023-05-23,May,Q2,Sports,Dumbbells,Ahmedabad,Gujarat,3,4560.63,16.0,11492.79,Credit Card,Returned,3.2
+ORD10031,2023-01-04,January,Q1,Beauty,Perfume,Jaipur,Rajasthan,4,41129.74,38.0,102001.76,Debit Card,Returned,2.8
+ORD10032,2023-03-23,March,Q1,Electronics,Tablet,Ahmedabad,Gujarat,3,45767.03,9.0,124943.99,Net Banking,Delivered,2.7
+ORD10033,2023-12-24,December,Q4,Toys,LEGO Set,Bangalore,Karnataka,1,47315.76,12.0,41637.87,Credit Card,Delivered,3.7
+ORD10034,2023-08-05,August,Q3,Home & Kitchen,Curtains,Kolkata,West Bengal,3,33540.79,30.0,70435.66,Net Banking,Cancelled,4.9
+ORD10035,2023-06-24,June,Q2,Home & Kitchen,Curtains,Delhi,Delhi,4,30801.83,38.0,76388.54,UPI,Delivered,3.2
+ORD10036,2023-05-23,May,Q2,Grocery,Tea 250g,Chennai,Tamil Nadu,3,5012.76,27.0,10977.94,UPI,Delivered,3.9
+ORD10037,2023-03-21,March,Q1,Toys,Doll,Chennai,Tamil Nadu,1,47453.09,33.0,31793.57,Debit Card,Cancelled,2.7
+ORD10038,2023-04-21,April,Q2,Electronics,Smartphone,Madurai,Tamil Nadu,2,49441.6,31.0,68229.41,Cash on Delivery,Delivered,3.0
+ORD10039,2023-06-22,June,Q2,Sports,Football,Madurai,Tamil Nadu,2,39442.76,24.0,59953.0,Debit Card,Delivered,3.2
+ORD10040,2023-02-22,February,Q1,Books,Python Guide,Delhi,Delhi,1,6633.57,14.0,5704.87,Cash on Delivery,Delivered,4.5
+ORD10041,2023-02-17,February,Q1,Electronics,Laptop,Hyderabad,Telangana,1,6381.59,17.0,5296.72,Credit Card,Returned,2.8
+ORD10042,2023-07-14,July,Q3,Grocery,Oil 1L,Ahmedabad,Gujarat,5,5497.25,20.0,21989.0,Credit Card,Cancelled,4.9
+ORD10043,2023-02-19,February,Q1,Books,UPSC Guide,Mumbai,Maharashtra,1,49929.41,34.0,32953.41,Credit Card,Returned,3.6
+ORD10044,2023-07-03,July,Q3,Grocery,Rice 5kg,Delhi,Delhi,3,30434.46,3.0,88564.28,Cash on Delivery,Cancelled,3.2
+ORD10045,2023-06-26,June,Q2,Beauty,Lipstick,Jaipur,Rajasthan,5,14780.14,20.0,59120.56,Credit Card,Cancelled,3.6
+ORD10046,2023-11-06,November,Q4,Sports,Dumbbells,Kolkata,West Bengal,2,20719.99,33.0,27764.79,Credit Card,Delivered,3.5
+ORD10047,2023-05-16,May,Q2,Toys,Doll,Hyderabad,Telangana,3,47681.95,27.0,104423.47,Credit Card,Delivered,3.7
+ORD10048,2023-01-23,January,Q1,Clothing,Kurta,Delhi,Delhi,3,40597.88,22.0,94999.04,Cash on Delivery,Cancelled,4.0
+ORD10049,2023-08-24,August,Q3,Beauty,Face Cream,Pune,Maharashtra,3,43686.69,38.0,81257.24,Credit Card,Delivered,3.6
+ORD10050,2023-10-02,October,Q4,Books,Novel,Delhi,Delhi,5,25395.26,6.0,119357.72,Credit Card,Delivered,3.7
+ORD10051,2023-03-05,March,Q1,Beauty,Face Cream,Hyderabad,Telangana,5,11346.65,17.0,47088.6,Cash on Delivery,Cancelled,3.9
+ORD10052,2023-07-13,July,Q3,Electronics,Tablet,Hyderabad,Telangana,1,9061.78,28.0,6524.48,UPI,Delivered,3.3
+ORD10053,2023-02-10,February,Q1,Electronics,Laptop,Bangalore,Karnataka,5,32884.36,3.0,159489.15,Credit Card,Delivered,4.4
+ORD10054,2023-10-10,October,Q4,Sports,Dumbbells,Pune,Maharashtra,4,17077.75,15.0,58064.35,Cash on Delivery,Cancelled,4.3
+ORD10055,2023-05-31,May,Q2,Clothing,T-Shirt,Bangalore,Karnataka,2,37734.07,2.0,73958.78,Net Banking,Returned,2.7
+ORD10056,2023-11-18,November,Q4,Grocery,Biscuits,Kolkata,West Bengal,4,13694.68,30.0,38345.1,Net Banking,Delivered,2.8
+ORD10057,2023-11-13,November,Q4,Books,Children Book,Kolkata,West Bengal,5,33373.27,2.0,163529.02,Cash on Delivery,Delivered,3.5
+ORD10058,2023-07-05,July,Q3,Electronics,Laptop,Hyderabad,Telangana,2,38379.11,31.0,52963.17,Credit Card,Delivered,3.2
+ORD10059,2023-10-23,October,Q4,Grocery,Tea 250g,Bangalore,Karnataka,2,19041.36,28.0,27419.56,UPI,Delivered,3.8
+ORD10060,2023-04-09,April,Q2,Toys,LEGO Set,Pune,Maharashtra,1,23014.72,3.0,22324.28,Net Banking,Cancelled,3.3
+ORD10061,2023-12-27,December,Q4,Toys,RC Car,Hyderabad,Telangana,1,20281.36,39.0,12371.63,Cash on Delivery,Returned,2.9
+ORD10062,2023-02-05,February,Q1,Beauty,Face Cream,Pune,Maharashtra,1,12203.66,24.0,9274.78,Net Banking,Delivered,3.8
+ORD10063,2023-01-24,January,Q1,Beauty,Shampoo,Madurai,Tamil Nadu,2,3865.15,25.0,5797.73,Debit Card,Delivered,3.8
+ORD10064,2023-12-05,December,Q4,Beauty,Shampoo,Chennai,Tamil Nadu,1,7364.89,8.0,6775.7,Credit Card,Delivered,4.0
+ORD10065,2023-04-27,April,Q2,Grocery,Tea 250g,Jaipur,Rajasthan,5,22472.82,37.0,70789.38,Cash on Delivery,Delivered,3.9
+ORD10066,2023-05-29,May,Q2,Beauty,Shampoo,Kolkata,West Bengal,1,23472.61,25.0,17604.46,Cash on Delivery,Delivered,4.5
+ORD10067,2023-02-10,February,Q1,Beauty,Sunscreen,Delhi,Delhi,3,23114.04,2.0,67955.28,UPI,Delivered,3.4
+ORD10068,2023-04-30,April,Q2,Clothing,Jacket,Jaipur,Rajasthan,5,19254.9,23.0,74131.37,Credit Card,Returned,4.9
+ORD10069,2023-02-21,February,Q1,Sports,Yoga Mat,Jaipur,Rajasthan,4,25093.3,38.0,62231.38,UPI,Delivered,3.6
+ORD10070,2023-07-14,July,Q3,Home & Kitchen,Mixer Grinder,Chennai,Tamil Nadu,4,49549.75,21.0,156577.21,UPI,Delivered,4.0
+ORD10071,2023-05-23,May,Q2,Books,UPSC Guide,Pune,Maharashtra,3,33960.94,2.0,99845.16,UPI,Delivered,4.1
+ORD10072,2023-08-21,August,Q3,Beauty,Face Cream,Ahmedabad,Gujarat,4,14243.14,29.0,40450.52,Cash on Delivery,Delivered,4.1
+ORD10073,2023-11-22,November,Q4,Beauty,Face Cream,Jaipur,Rajasthan,2,45841.49,12.0,80681.02,Net Banking,Delivered,4.1
+ORD10074,2023-07-06,July,Q3,Clothing,Saree,Ahmedabad,Gujarat,4,32192.49,13.0,112029.87,Cash on Delivery,Delivered,2.8
+ORD10075,2023-03-25,March,Q1,Toys,Puzzle,Madurai,Tamil Nadu,1,18161.75,7.0,16890.43,Net Banking,Delivered,3.0
+ORD10076,2023-07-09,July,Q3,Sports,Football,Bangalore,Karnataka,1,14824.82,32.0,10080.88,Cash on Delivery,Cancelled,3.8
+ORD10077,2023-07-01,July,Q3,Electronics,Headphones,Jaipur,Rajasthan,2,29882.46,6.0,56179.02,Cash on Delivery,Delivered,3.0
+ORD10078,2023-04-18,April,Q2,Grocery,Rice 5kg,Pune,Maharashtra,3,33834.33,10.0,91352.69,UPI,Returned,3.6
+ORD10079,2023-12-10,December,Q4,Sports,Badminton Set,Chennai,Tamil Nadu,3,48281.55,31.0,99942.81,Debit Card,Delivered,4.8
+ORD10080,2023-05-17,May,Q2,Grocery,Tea 250g,Hyderabad,Telangana,4,25170.19,17.0,83565.03,Debit Card,Cancelled,2.9
+ORD10081,2023-12-26,December,Q4,Home & Kitchen,Bedsheet,Mumbai,Maharashtra,4,43712.14,22.0,136381.88,Cash on Delivery,Delivered,2.8
+ORD10082,2023-12-16,December,Q4,Books,Data Science Book,Bangalore,Karnataka,3,22493.5,21.0,53309.6,Credit Card,Delivered,4.6
+ORD10083,2023-11-28,November,Q4,Grocery,Oil 1L,Mumbai,Maharashtra,4,2710.18,20.0,8672.58,Credit Card,Delivered,3.1
+ORD10084,2023-02-06,February,Q1,Sports,Cricket Bat,Madurai,Tamil Nadu,1,41966.86,26.0,31055.48,Debit Card,Delivered,4.5
+ORD10085,2023-11-08,November,Q4,Books,UPSC Guide,Bangalore,Karnataka,4,22457.64,0.0,89830.56,UPI,Delivered,2.7
+ORD10086,2023-11-22,November,Q4,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,5,21191.58,31.0,73110.95,Credit Card,Delivered,3.1
+ORD10087,2023-03-29,March,Q1,Sports,Dumbbells,Jaipur,Rajasthan,4,3187.22,33.0,8541.75,Cash on Delivery,Delivered,3.7
+ORD10088,2023-10-01,October,Q4,Sports,Football,Hyderabad,Telangana,4,128.14,14.0,440.8,Debit Card,Delivered,3.9
+ORD10089,2023-05-06,May,Q2,Beauty,Face Cream,Ahmedabad,Gujarat,5,25391.02,40.0,76173.06,Net Banking,Returned,3.9
+ORD10090,2023-03-25,March,Q1,Electronics,Smart Watch,Madurai,Tamil Nadu,3,37378.46,14.0,96436.43,Debit Card,Delivered,2.7
+ORD10091,2023-08-25,August,Q3,Beauty,Shampoo,Mumbai,Maharashtra,3,27323.39,33.0,54920.01,Net Banking,Returned,2.9
+ORD10092,2023-07-14,July,Q3,Home & Kitchen,Pressure Cooker,Delhi,Delhi,4,1897.34,8.0,6982.21,Credit Card,Delivered,4.5
+ORD10093,2023-05-19,May,Q2,Books,Children Book,Pune,Maharashtra,5,23696.32,1.0,117296.78,UPI,Delivered,4.1
+ORD10094,2023-11-24,November,Q4,Electronics,Headphones,Hyderabad,Telangana,1,39977.15,17.0,33181.03,Net Banking,Returned,3.5
+ORD10095,2023-12-19,December,Q4,Beauty,Shampoo,Kolkata,West Bengal,4,18398.98,32.0,50045.23,Credit Card,Returned,3.2
+ORD10096,2023-10-13,October,Q4,Clothing,Kurta,Jaipur,Rajasthan,2,27296.45,13.0,47495.82,UPI,Delivered,2.7
+ORD10097,2023-04-23,April,Q2,Grocery,Biscuits,Pune,Maharashtra,2,34503.75,14.0,59346.45,UPI,Cancelled,2.6
+ORD10098,2023-12-17,December,Q4,Toys,Doll,Mumbai,Maharashtra,1,33575.64,16.0,28203.54,Debit Card,Delivered,3.8
+ORD10099,2023-06-16,June,Q2,Home & Kitchen,Water Bottle,Kolkata,West Bengal,1,6355.19,9.0,5783.22,UPI,Returned,4.1
+ORD10100,2023-01-29,January,Q1,Electronics,Tablet,Bangalore,Karnataka,4,47443.74,15.0,161308.72,Cash on Delivery,Delivered,4.4
+ORD10101,2023-04-28,April,Q2,Beauty,Lipstick,Madurai,Tamil Nadu,3,12518.1,5.0,35676.58,Net Banking,Cancelled,4.3
+ORD10102,2023-01-17,January,Q1,Toys,Puzzle,Delhi,Delhi,3,38759.48,28.0,83720.48,Cash on Delivery,Delivered,3.0
+ORD10103,2023-06-11,June,Q2,Grocery,Dal 1kg,Delhi,Delhi,2,42648.67,18.0,69943.82,Net Banking,Delivered,4.7
+ORD10104,2023-07-25,July,Q3,Beauty,Perfume,Delhi,Delhi,5,27131.46,36.0,86820.67,Debit Card,Delivered,4.6
+ORD10105,2023-05-18,May,Q2,Sports,Cricket Bat,Chennai,Tamil Nadu,2,11874.97,20.0,18999.95,Cash on Delivery,Delivered,3.4
+ORD10106,2023-02-03,February,Q1,Grocery,Biscuits,Bangalore,Karnataka,5,44218.11,3.0,214457.83,Net Banking,Cancelled,3.5
+ORD10107,2023-04-19,April,Q2,Toys,RC Car,Jaipur,Rajasthan,1,6310.07,13.0,5489.76,Net Banking,Cancelled,2.7
+ORD10108,2023-10-18,October,Q4,Beauty,Shampoo,Ahmedabad,Gujarat,5,9139.06,39.0,27874.13,Credit Card,Delivered,3.6
+ORD10109,2023-06-11,June,Q2,Home & Kitchen,Bedsheet,Bangalore,Karnataka,2,16166.9,28.0,23280.34,Cash on Delivery,Delivered,3.4
+ORD10110,2023-04-19,April,Q2,Clothing,Saree,Chennai,Tamil Nadu,5,13758.83,25.0,51595.61,Credit Card,Cancelled,4.0
+ORD10111,2023-12-02,December,Q4,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,2,8601.47,25.0,12902.2,UPI,Cancelled,4.8
+ORD10112,2023-09-13,September,Q3,Electronics,Smartphone,Delhi,Delhi,1,47429.92,31.0,32726.64,Debit Card,Cancelled,3.2
+ORD10113,2023-07-22,July,Q3,Toys,Puzzle,Mumbai,Maharashtra,4,44455.39,22.0,138700.82,UPI,Returned,4.1
+ORD10114,2023-11-26,November,Q4,Sports,Dumbbells,Hyderabad,Telangana,4,3695.0,2.0,14484.4,Net Banking,Returned,3.6
+ORD10115,2023-08-23,August,Q3,Sports,Yoga Mat,Jaipur,Rajasthan,2,15663.5,29.0,22242.17,UPI,Returned,4.3
+ORD10116,2023-03-15,March,Q1,Home & Kitchen,Bedsheet,Ahmedabad,Gujarat,5,5353.89,10.0,24092.51,Net Banking,Delivered,2.8
+ORD10117,2023-05-16,May,Q2,Home & Kitchen,Mixer Grinder,Mumbai,Maharashtra,3,47271.98,35.0,92180.36,Debit Card,Delivered,3.5
+ORD10118,2023-03-13,March,Q1,Beauty,Shampoo,Bangalore,Karnataka,4,49798.67,19.0,161347.69,Net Banking,Delivered,4.7
+ORD10119,2023-05-07,May,Q2,Clothing,Kurta,Ahmedabad,Gujarat,4,48336.0,9.0,175943.04,Credit Card,Delivered,3.4
+ORD10120,2023-10-15,October,Q4,Grocery,Biscuits,Kolkata,West Bengal,3,26857.7,34.0,53178.25,UPI,Delivered,3.6
+ORD10121,2023-10-03,October,Q4,Toys,Doll,Mumbai,Maharashtra,4,2605.33,22.0,8128.63,UPI,Delivered,3.4
+ORD10122,2023-05-15,May,Q2,Toys,Puzzle,Kolkata,West Bengal,5,14022.05,40.0,42066.15,Credit Card,Delivered,4.2
+ORD10123,2023-10-27,October,Q4,Clothing,Kurta,Madurai,Tamil Nadu,3,27913.7,15.0,71179.93,Cash on Delivery,Cancelled,2.9
+ORD10124,2023-08-08,August,Q3,Toys,Puzzle,Mumbai,Maharashtra,1,1993.75,29.0,1415.56,Cash on Delivery,Returned,4.5
+ORD10125,2023-10-26,October,Q4,Home & Kitchen,Water Bottle,Ahmedabad,Gujarat,2,16431.89,25.0,24647.83,Cash on Delivery,Delivered,2.9
+ORD10126,2023-07-24,July,Q3,Beauty,Sunscreen,Ahmedabad,Gujarat,5,24517.84,23.0,94393.68,Credit Card,Delivered,3.7
+ORD10127,2023-07-05,July,Q3,Beauty,Face Cream,Pune,Maharashtra,5,15418.51,36.0,49339.23,Credit Card,Cancelled,4.7
+ORD10128,2023-04-23,April,Q2,Grocery,Oil 1L,Jaipur,Rajasthan,5,11415.78,2.0,55937.32,Cash on Delivery,Cancelled,3.7
+ORD10129,2023-03-12,March,Q1,Toys,Board Game,Chennai,Tamil Nadu,1,28649.89,28.0,20627.92,Net Banking,Delivered,3.0
+ORD10130,2023-09-18,September,Q3,Toys,Board Game,Pune,Maharashtra,2,20548.35,31.0,28356.72,Credit Card,Delivered,4.8
+ORD10131,2023-09-10,September,Q3,Sports,Badminton Set,Madurai,Tamil Nadu,4,26297.58,13.0,91515.58,Cash on Delivery,Delivered,2.9
+ORD10132,2023-02-16,February,Q1,Beauty,Perfume,Jaipur,Rajasthan,4,9653.6,10.0,34752.96,Debit Card,Delivered,3.9
+ORD10133,2023-01-25,January,Q1,Books,Python Guide,Kolkata,West Bengal,3,24016.18,22.0,56197.86,UPI,Delivered,4.8
+ORD10134,2023-02-26,February,Q1,Clothing,Jacket,Ahmedabad,Gujarat,4,44793.24,16.0,150505.29,Debit Card,Delivered,3.4
+ORD10135,2023-03-20,March,Q1,Electronics,Headphones,Delhi,Delhi,3,46204.28,26.0,102573.5,Debit Card,Delivered,4.4
+ORD10136,2023-11-18,November,Q4,Books,Children Book,Hyderabad,Telangana,2,5505.87,30.0,7708.22,Credit Card,Cancelled,3.1
+ORD10137,2023-03-23,March,Q1,Sports,Football,Mumbai,Maharashtra,1,20694.4,29.0,14693.02,Debit Card,Delivered,2.8
+ORD10138,2023-12-15,December,Q4,Home & Kitchen,Curtains,Kolkata,West Bengal,4,32544.41,30.0,91124.35,UPI,Delivered,3.2
+ORD10139,2023-08-05,August,Q3,Clothing,Jacket,Chennai,Tamil Nadu,5,36947.39,34.0,121926.39,Debit Card,Returned,2.6
+ORD10140,2023-11-02,November,Q4,Home & Kitchen,Mixer Grinder,Pune,Maharashtra,4,9356.27,30.0,26197.56,UPI,Delivered,4.7
+ORD10141,2023-02-02,February,Q1,Electronics,Headphones,Jaipur,Rajasthan,5,5409.67,39.0,16499.49,Cash on Delivery,Cancelled,3.2
+ORD10142,2023-07-17,July,Q3,Grocery,Dal 1kg,Ahmedabad,Gujarat,4,13678.21,32.0,37204.73,Net Banking,Delivered,3.3
+ORD10143,2023-07-15,July,Q3,Home & Kitchen,Mixer Grinder,Madurai,Tamil Nadu,3,28410.67,30.0,59662.41,Net Banking,Returned,2.9
+ORD10144,2023-11-02,November,Q4,Beauty,Face Cream,Pune,Maharashtra,1,9279.82,6.0,8723.03,Debit Card,Delivered,3.3
+ORD10145,2023-08-28,August,Q3,Books,UPSC Guide,Chennai,Tamil Nadu,4,37700.14,38.0,93496.35,Cash on Delivery,Delivered,3.3
+ORD10146,2023-09-28,September,Q3,Books,Novel,Chennai,Tamil Nadu,1,33405.92,19.0,27058.8,Cash on Delivery,Delivered,2.9
+ORD10147,2023-05-09,May,Q2,Clothing,Saree,Madurai,Tamil Nadu,5,11081.42,38.0,34352.4,Net Banking,Cancelled,3.7
+ORD10148,2023-10-11,October,Q4,Beauty,Lipstick,Ahmedabad,Gujarat,4,37879.66,32.0,103032.68,Debit Card,Cancelled,4.6
+ORD10149,2023-01-06,January,Q1,Clothing,Jacket,Kolkata,West Bengal,5,35203.12,3.0,170735.13,Credit Card,Cancelled,3.9
+ORD10150,2023-12-15,December,Q4,Sports,Badminton Set,Ahmedabad,Gujarat,2,8268.63,34.0,10914.59,Debit Card,Cancelled,3.6
+ORD10151,2023-02-28,February,Q1,Grocery,Rice 5kg,Ahmedabad,Gujarat,4,40444.17,18.0,132656.88,Net Banking,Cancelled,3.8
+ORD10152,2023-12-16,December,Q4,Electronics,Tablet,Kolkata,West Bengal,3,36177.84,16.0,91168.16,Debit Card,Cancelled,4.5
+ORD10153,2023-10-02,October,Q4,Clothing,T-Shirt,Pune,Maharashtra,3,35034.22,22.0,81980.07,Credit Card,Returned,2.7
+ORD10154,2023-05-17,May,Q2,Electronics,Headphones,Pune,Maharashtra,2,38460.15,31.0,53075.01,Net Banking,Delivered,4.9
+ORD10155,2023-11-25,November,Q4,Toys,RC Car,Pune,Maharashtra,4,4058.49,39.0,9902.72,Debit Card,Delivered,4.7
+ORD10156,2023-06-24,June,Q2,Clothing,Jeans,Ahmedabad,Gujarat,4,26465.68,29.0,75162.53,Credit Card,Delivered,3.1
+ORD10157,2023-02-27,February,Q1,Books,UPSC Guide,Ahmedabad,Gujarat,4,26620.08,33.0,71341.81,UPI,Delivered,3.1
+ORD10158,2023-05-31,May,Q2,Books,Python Guide,Delhi,Delhi,1,40483.44,17.0,33601.26,Credit Card,Delivered,4.4
+ORD10159,2023-08-11,August,Q3,Sports,Cricket Bat,Delhi,Delhi,5,1727.13,24.0,6563.09,Credit Card,Delivered,4.3
+ORD10160,2023-03-22,March,Q1,Electronics,Smart Watch,Kolkata,West Bengal,2,27011.0,30.0,37815.4,Debit Card,Cancelled,4.4
+ORD10161,2023-08-21,August,Q3,Books,Python Guide,Jaipur,Rajasthan,3,28894.87,31.0,59812.38,Debit Card,Delivered,4.5
+ORD10162,2023-01-02,January,Q1,Home & Kitchen,Water Bottle,Chennai,Tamil Nadu,4,15060.02,2.0,59035.28,Debit Card,Returned,4.9
+ORD10163,2023-05-15,May,Q2,Grocery,Rice 5kg,Madurai,Tamil Nadu,4,39300.94,13.0,136767.27,Debit Card,Delivered,3.5
+ORD10164,2023-09-14,September,Q3,Toys,Board Game,Ahmedabad,Gujarat,4,12086.36,9.0,43994.35,Debit Card,Returned,4.6
+ORD10165,2023-04-02,April,Q2,Electronics,Tablet,Pune,Maharashtra,4,27886.47,5.0,105968.59,Debit Card,Delivered,3.1
+ORD10166,2023-09-17,September,Q3,Clothing,Kurta,Madurai,Tamil Nadu,1,26805.0,33.0,17959.35,Net Banking,Cancelled,2.6
+ORD10167,2023-02-24,February,Q1,Electronics,Smartphone,Chennai,Tamil Nadu,5,36229.05,22.0,141293.3,UPI,Delivered,3.7
+ORD10168,2023-11-17,November,Q4,Electronics,Laptop,Chennai,Tamil Nadu,1,37356.62,30.0,26149.63,Cash on Delivery,Delivered,4.8
+ORD10169,2023-06-02,June,Q2,Toys,Board Game,Ahmedabad,Gujarat,3,38786.92,15.0,98906.65,UPI,Delivered,3.8
+ORD10170,2023-11-24,November,Q4,Books,Novel,Ahmedabad,Gujarat,4,23326.9,32.0,63449.17,UPI,Delivered,4.3
+ORD10171,2023-09-17,September,Q3,Beauty,Perfume,Pune,Maharashtra,1,28148.11,9.0,25614.78,UPI,Cancelled,2.9
+ORD10172,2023-11-08,November,Q4,Toys,Doll,Bangalore,Karnataka,2,16526.77,15.0,28095.51,Net Banking,Cancelled,4.6
+ORD10173,2023-04-12,April,Q2,Beauty,Perfume,Kolkata,West Bengal,4,23068.41,29.0,65514.28,Debit Card,Cancelled,3.4
+ORD10174,2023-03-20,March,Q1,Grocery,Dal 1kg,Ahmedabad,Gujarat,1,26221.02,34.0,17305.87,Credit Card,Delivered,2.7
+ORD10175,2023-07-11,July,Q3,Toys,Board Game,Chennai,Tamil Nadu,1,35373.12,0.0,35373.12,UPI,Delivered,3.8
+ORD10176,2023-03-24,March,Q1,Grocery,Tea 250g,Mumbai,Maharashtra,1,26634.01,16.0,22372.57,UPI,Cancelled,2.5
+ORD10177,2023-10-04,October,Q4,Books,Data Science Book,Ahmedabad,Gujarat,4,40318.08,36.0,103214.28,Credit Card,Cancelled,2.8
+ORD10178,2023-09-29,September,Q3,Home & Kitchen,Pressure Cooker,Chennai,Tamil Nadu,5,26346.48,33.0,88260.71,Net Banking,Delivered,3.2
+ORD10179,2023-01-01,January,Q1,Beauty,Lipstick,Kolkata,West Bengal,5,12198.23,28.0,43913.63,Credit Card,Delivered,3.2
+ORD10180,2023-11-03,November,Q4,Clothing,Kurta,Pune,Maharashtra,4,27657.44,2.0,108417.16,Debit Card,Delivered,2.5
+ORD10181,2023-06-15,June,Q2,Grocery,Tea 250g,Madurai,Tamil Nadu,5,48867.59,39.0,149046.15,Credit Card,Delivered,4.7
+ORD10182,2023-09-08,September,Q3,Sports,Badminton Set,Kolkata,West Bengal,3,2375.77,3.0,6913.49,Cash on Delivery,Cancelled,4.8
+ORD10183,2023-01-10,January,Q1,Electronics,Laptop,Madurai,Tamil Nadu,1,48075.39,23.0,37018.05,Net Banking,Delivered,4.4
+ORD10184,2023-02-27,February,Q1,Books,Python Guide,Jaipur,Rajasthan,2,28356.46,34.0,37430.53,Cash on Delivery,Delivered,4.2
+ORD10185,2023-07-05,July,Q3,Toys,Board Game,Delhi,Delhi,5,37285.56,14.0,160327.91,Debit Card,Delivered,2.7
+ORD10186,2023-06-07,June,Q2,Beauty,Sunscreen,Jaipur,Rajasthan,5,19865.32,31.0,68535.35,UPI,Returned,2.6
+ORD10187,2023-05-03,May,Q2,Grocery,Dal 1kg,Madurai,Tamil Nadu,5,47060.09,17.0,195299.37,Net Banking,Delivered,4.2
+ORD10188,2023-01-30,January,Q1,Books,Python Guide,Delhi,Delhi,1,13435.2,15.0,11419.92,Debit Card,Returned,4.5
+ORD10189,2023-05-04,May,Q2,Beauty,Perfume,Delhi,Delhi,1,309.5,12.0,272.36,UPI,Delivered,3.4
+ORD10190,2023-10-18,October,Q4,Home & Kitchen,Mixer Grinder,Bangalore,Karnataka,4,22469.74,22.0,70105.59,Credit Card,Delivered,3.5
+ORD10191,2023-02-10,February,Q1,Beauty,Sunscreen,Delhi,Delhi,5,29922.29,13.0,130161.96,UPI,Returned,3.5
+ORD10192,2023-02-13,February,Q1,Toys,LEGO Set,Ahmedabad,Gujarat,2,28619.42,7.0,53232.12,Debit Card,Delivered,3.5
+ORD10193,2023-09-06,September,Q3,Books,Novel,Kolkata,West Bengal,2,3210.19,17.0,5328.92,Net Banking,Delivered,3.6
+ORD10194,2023-02-05,February,Q1,Beauty,Perfume,Chennai,Tamil Nadu,4,29710.63,8.0,109335.12,UPI,Delivered,2.8
+ORD10195,2023-09-30,September,Q3,Toys,Doll,Jaipur,Rajasthan,4,40213.62,13.0,139943.4,Cash on Delivery,Delivered,3.3
+ORD10196,2023-03-06,March,Q1,Books,Novel,Jaipur,Rajasthan,2,23976.54,7.0,44596.36,UPI,Delivered,3.5
+ORD10197,2023-03-07,March,Q1,Grocery,Biscuits,Chennai,Tamil Nadu,3,18833.96,33.0,37856.26,Credit Card,Cancelled,3.5
+ORD10198,2023-12-04,December,Q4,Sports,Badminton Set,Ahmedabad,Gujarat,2,34101.55,22.0,53198.42,Net Banking,Delivered,4.9
+ORD10199,2023-09-01,September,Q3,Grocery,Oil 1L,Delhi,Delhi,4,33665.23,6.0,126581.26,UPI,Delivered,3.3
+ORD10200,2023-10-09,October,Q4,Toys,RC Car,Delhi,Delhi,4,49535.5,19.0,160495.02,Cash on Delivery,Returned,3.5
+ORD10201,2023-03-26,March,Q1,Electronics,Headphones,Ahmedabad,Gujarat,5,31927.11,3.0,154846.48,UPI,Delivered,4.4
+ORD10202,2023-05-16,May,Q2,Electronics,Tablet,Pune,Maharashtra,3,48287.55,17.0,120236.0,UPI,Delivered,2.5
+ORD10203,2023-09-28,September,Q3,Sports,Dumbbells,Madurai,Tamil Nadu,4,23180.01,27.0,67685.63,Debit Card,Delivered,4.2
+ORD10204,2023-11-07,November,Q4,Electronics,Smart Watch,Delhi,Delhi,3,20827.97,38.0,38740.02,Debit Card,Delivered,2.8
+ORD10205,2023-08-05,August,Q3,Books,Novel,Kolkata,West Bengal,2,26079.69,14.0,44857.07,Net Banking,Delivered,2.7
+ORD10206,2023-04-19,April,Q2,Clothing,Saree,Mumbai,Maharashtra,1,1178.13,14.0,1013.19,Debit Card,Delivered,2.8
+ORD10207,2023-10-04,October,Q4,Home & Kitchen,Water Bottle,Bangalore,Karnataka,3,28014.46,38.0,52106.9,Net Banking,Delivered,3.1
+ORD10208,2023-12-20,December,Q4,Home & Kitchen,Curtains,Pune,Maharashtra,1,36882.55,35.0,23973.66,Net Banking,Returned,3.6
+ORD10209,2023-04-13,April,Q2,Electronics,Laptop,Chennai,Tamil Nadu,3,37628.66,32.0,76762.47,Credit Card,Cancelled,2.7
+ORD10210,2023-06-09,June,Q2,Home & Kitchen,Bedsheet,Madurai,Tamil Nadu,2,22904.64,10.0,41228.35,Cash on Delivery,Delivered,4.7
+ORD10211,2023-07-24,July,Q3,Toys,Puzzle,Pune,Maharashtra,5,5755.89,14.0,24750.33,Debit Card,Delivered,3.6
+ORD10212,2023-12-10,December,Q4,Clothing,Jeans,Madurai,Tamil Nadu,1,11966.71,5.0,11368.37,Debit Card,Cancelled,3.4
+ORD10213,2023-11-29,November,Q4,Toys,RC Car,Jaipur,Rajasthan,2,28761.56,17.0,47744.19,Cash on Delivery,Delivered,3.7
+ORD10214,2023-07-11,July,Q3,Home & Kitchen,Curtains,Hyderabad,Telangana,2,9395.57,34.0,12402.15,UPI,Delivered,4.0
+ORD10215,2023-08-13,August,Q3,Grocery,Dal 1kg,Chennai,Tamil Nadu,4,48193.26,20.0,154218.43,Net Banking,Returned,3.7
+ORD10216,2023-09-22,September,Q3,Grocery,Tea 250g,Bangalore,Karnataka,1,28291.62,32.0,19238.3,Credit Card,Delivered,3.1
+ORD10217,2023-08-20,August,Q3,Sports,Badminton Set,Hyderabad,Telangana,2,39047.97,23.0,60133.87,Net Banking,Cancelled,4.4
+ORD10218,2023-03-03,March,Q1,Clothing,Jacket,Delhi,Delhi,3,38766.9,33.0,77921.47,Credit Card,Returned,3.4
+ORD10219,2023-05-07,May,Q2,Sports,Dumbbells,Delhi,Delhi,2,14920.56,40.0,17904.67,UPI,Delivered,3.6
+ORD10220,2023-04-26,April,Q2,Grocery,Rice 5kg,Chennai,Tamil Nadu,2,40544.6,24.0,61627.79,Cash on Delivery,Returned,3.4
+ORD10221,2023-02-02,February,Q1,Home & Kitchen,Water Bottle,Bangalore,Karnataka,2,40685.82,32.0,55332.72,Cash on Delivery,Delivered,3.9
+ORD10222,2023-06-23,June,Q2,Home & Kitchen,Bedsheet,Hyderabad,Telangana,3,28658.14,38.0,53304.14,Credit Card,Delivered,3.8
+ORD10223,2023-01-11,January,Q1,Toys,LEGO Set,Hyderabad,Telangana,2,35086.26,5.0,66663.89,UPI,Delivered,2.9
+ORD10224,2023-10-29,October,Q4,Toys,RC Car,Bangalore,Karnataka,5,31638.48,25.0,118644.3,Credit Card,Delivered,3.4
+ORD10225,2023-10-11,October,Q4,Toys,Puzzle,Hyderabad,Telangana,3,22762.05,20.0,54628.92,Credit Card,Returned,4.0
+ORD10226,2023-04-28,April,Q2,Beauty,Face Cream,Ahmedabad,Gujarat,4,10930.61,17.0,36289.63,UPI,Delivered,3.0
+ORD10227,2023-10-29,October,Q4,Books,Novel,Ahmedabad,Gujarat,5,6573.18,34.0,21691.49,Credit Card,Delivered,4.5
+ORD10228,2023-04-23,April,Q2,Clothing,Kurta,Mumbai,Maharashtra,1,46475.17,6.0,43686.66,Net Banking,Delivered,3.6
+ORD10229,2023-01-04,January,Q1,Home & Kitchen,Bedsheet,Bangalore,Karnataka,3,4712.33,14.0,12157.81,Debit Card,Delivered,2.7
+ORD10230,2023-02-06,February,Q1,Toys,Doll,Chennai,Tamil Nadu,4,32791.49,28.0,94439.49,Net Banking,Delivered,2.5
+ORD10231,2023-12-29,December,Q4,Home & Kitchen,Water Bottle,Chennai,Tamil Nadu,5,34015.14,0.0,170075.7,Credit Card,Returned,4.2
+ORD10232,2023-11-20,November,Q4,Home & Kitchen,Curtains,Delhi,Delhi,2,19184.34,29.0,27241.76,UPI,Delivered,2.8
+ORD10233,2023-01-31,January,Q1,Books,Python Guide,Pune,Maharashtra,2,32096.73,27.0,46861.23,Cash on Delivery,Delivered,2.7
+ORD10234,2023-04-28,April,Q2,Home & Kitchen,Curtains,Madurai,Tamil Nadu,2,31422.6,6.0,59074.49,Net Banking,Delivered,3.5
+ORD10235,2023-02-04,February,Q1,Clothing,T-Shirt,Bangalore,Karnataka,1,29499.22,15.0,25074.34,UPI,Delivered,4.9
+ORD10236,2023-01-17,January,Q1,Sports,Yoga Mat,Delhi,Delhi,2,27692.16,24.0,42092.08,Credit Card,Delivered,4.0
+ORD10237,2023-06-19,June,Q2,Sports,Badminton Set,Jaipur,Rajasthan,5,9472.89,16.0,39786.14,Debit Card,Returned,4.1
+ORD10238,2023-02-06,February,Q1,Toys,LEGO Set,Chennai,Tamil Nadu,4,31922.21,3.0,123858.17,Credit Card,Delivered,4.7
+ORD10239,2023-09-21,September,Q3,Beauty,Shampoo,Pune,Maharashtra,5,21072.13,22.0,82181.31,Net Banking,Delivered,2.9
+ORD10240,2023-05-02,May,Q2,Electronics,Tablet,Delhi,Delhi,1,13146.15,2.0,12883.23,Net Banking,Cancelled,2.7
+ORD10241,2023-05-23,May,Q2,Books,Children Book,Pune,Maharashtra,4,35105.44,3.0,136209.11,Cash on Delivery,Delivered,3.8
+ORD10242,2023-12-09,December,Q4,Books,Data Science Book,Hyderabad,Telangana,1,25589.67,8.0,23542.5,Cash on Delivery,Delivered,4.5
+ORD10243,2023-09-06,September,Q3,Toys,Puzzle,Delhi,Delhi,3,34948.86,29.0,74441.07,Credit Card,Delivered,4.6
+ORD10244,2023-04-20,April,Q2,Clothing,Kurta,Delhi,Delhi,4,30634.22,2.0,120086.14,Debit Card,Delivered,4.2
+ORD10245,2023-10-04,October,Q4,Electronics,Laptop,Mumbai,Maharashtra,2,24845.83,14.0,42734.83,UPI,Delivered,3.8
+ORD10246,2023-03-09,March,Q1,Beauty,Shampoo,Hyderabad,Telangana,1,38582.94,1.0,38197.11,UPI,Cancelled,4.5
+ORD10247,2023-10-20,October,Q4,Clothing,Saree,Jaipur,Rajasthan,1,24832.57,20.0,19866.06,Cash on Delivery,Delivered,2.6
+ORD10248,2023-10-23,October,Q4,Beauty,Shampoo,Hyderabad,Telangana,1,44718.71,27.0,32644.66,Cash on Delivery,Delivered,2.8
+ORD10249,2023-08-31,August,Q3,Electronics,Smartphone,Chennai,Tamil Nadu,1,23614.64,15.0,20072.44,Credit Card,Cancelled,2.9
+ORD10250,2023-05-05,May,Q2,Toys,Board Game,Madurai,Tamil Nadu,2,20842.02,29.0,29595.67,Credit Card,Cancelled,3.2
+ORD10251,2023-08-31,August,Q3,Beauty,Face Cream,Ahmedabad,Gujarat,1,9008.25,32.0,6125.61,Net Banking,Delivered,5.0
+ORD10252,2023-07-28,July,Q3,Grocery,Oil 1L,Hyderabad,Telangana,3,4364.96,18.0,10737.8,UPI,Cancelled,3.4
+ORD10253,2023-04-08,April,Q2,Books,Children Book,Chennai,Tamil Nadu,4,18445.27,39.0,45006.46,Debit Card,Cancelled,5.0
+ORD10254,2023-02-18,February,Q1,Sports,Football,Mumbai,Maharashtra,4,1244.32,22.0,3882.28,Credit Card,Delivered,4.1
+ORD10255,2023-02-19,February,Q1,Electronics,Smart Watch,Hyderabad,Telangana,1,10299.46,39.0,6282.67,Credit Card,Delivered,3.5
+ORD10256,2023-12-04,December,Q4,Books,Data Science Book,Mumbai,Maharashtra,2,44869.51,21.0,70893.83,UPI,Returned,4.3
+ORD10257,2023-08-09,August,Q3,Clothing,Jacket,Delhi,Delhi,5,6719.02,33.0,22508.72,Cash on Delivery,Delivered,2.7
+ORD10258,2023-07-01,July,Q3,Toys,Board Game,Chennai,Tamil Nadu,3,13086.5,13.0,34155.76,UPI,Delivered,4.5
+ORD10259,2023-08-05,August,Q3,Grocery,Oil 1L,Chennai,Tamil Nadu,1,47180.56,5.0,44821.53,Credit Card,Delivered,4.4
+ORD10260,2023-07-30,July,Q3,Clothing,Jeans,Kolkata,West Bengal,4,15735.96,5.0,59796.65,Debit Card,Returned,3.4
+ORD10261,2023-08-28,August,Q3,Books,UPSC Guide,Hyderabad,Telangana,1,4566.52,32.0,3105.23,Cash on Delivery,Delivered,3.3
+ORD10262,2023-01-28,January,Q1,Sports,Yoga Mat,Bangalore,Karnataka,1,35572.31,39.0,21699.11,Credit Card,Delivered,3.5
+ORD10263,2023-12-11,December,Q4,Books,Python Guide,Mumbai,Maharashtra,4,42737.34,22.0,133340.5,Credit Card,Returned,3.9
+ORD10264,2023-12-01,December,Q4,Clothing,Jeans,Delhi,Delhi,1,3130.38,31.0,2159.96,Debit Card,Returned,3.1
+ORD10265,2023-11-27,November,Q4,Beauty,Face Cream,Jaipur,Rajasthan,5,12978.09,33.0,43476.6,Credit Card,Delivered,2.6
+ORD10266,2023-02-20,February,Q1,Grocery,Dal 1kg,Delhi,Delhi,3,6170.26,38.0,11476.68,Cash on Delivery,Returned,2.6
+ORD10267,2023-02-01,February,Q1,Toys,RC Car,Mumbai,Maharashtra,4,34176.49,7.0,127136.54,Debit Card,Delivered,3.0
+ORD10268,2023-07-26,July,Q3,Books,UPSC Guide,Bangalore,Karnataka,1,30724.62,25.0,23043.47,Net Banking,Returned,4.1
+ORD10269,2023-06-23,June,Q2,Grocery,Rice 5kg,Delhi,Delhi,3,19181.61,17.0,47762.21,Cash on Delivery,Delivered,4.1
+ORD10270,2023-02-25,February,Q1,Electronics,Smart Watch,Madurai,Tamil Nadu,4,27248.66,19.0,88285.66,Cash on Delivery,Delivered,4.8
+ORD10271,2023-05-08,May,Q2,Toys,Doll,Bangalore,Karnataka,1,15977.93,9.0,14539.92,UPI,Delivered,4.7
+ORD10272,2023-04-09,April,Q2,Grocery,Biscuits,Madurai,Tamil Nadu,5,49980.31,39.0,152439.95,Debit Card,Delivered,2.8
+ORD10273,2023-04-08,April,Q2,Electronics,Laptop,Jaipur,Rajasthan,4,17772.49,34.0,46919.37,Debit Card,Delivered,4.6
+ORD10274,2023-10-02,October,Q4,Beauty,Perfume,Jaipur,Rajasthan,1,35187.47,14.0,30261.22,Debit Card,Cancelled,3.9
+ORD10275,2023-08-18,August,Q3,Sports,Dumbbells,Ahmedabad,Gujarat,3,8819.06,2.0,25928.04,Cash on Delivery,Delivered,2.6
+ORD10276,2023-03-13,March,Q1,Electronics,Tablet,Kolkata,West Bengal,1,16620.11,25.0,12465.08,UPI,Delivered,4.5
+ORD10277,2023-08-05,August,Q3,Beauty,Face Cream,Mumbai,Maharashtra,2,29351.13,37.0,36982.42,Cash on Delivery,Delivered,4.4
+ORD10278,2023-04-04,April,Q2,Clothing,Saree,Pune,Maharashtra,5,5096.56,12.0,22424.86,Debit Card,Returned,2.8
+ORD10279,2023-05-23,May,Q2,Grocery,Oil 1L,Bangalore,Karnataka,5,34693.34,37.0,109284.02,Debit Card,Cancelled,4.5
+ORD10280,2023-08-25,August,Q3,Home & Kitchen,Curtains,Hyderabad,Telangana,3,6411.05,29.0,13655.54,Cash on Delivery,Returned,4.9
+ORD10281,2023-05-08,May,Q2,Electronics,Laptop,Jaipur,Rajasthan,3,46055.86,39.0,84282.22,Cash on Delivery,Delivered,3.1
+ORD10282,2023-02-08,February,Q1,Grocery,Dal 1kg,Madurai,Tamil Nadu,1,11937.9,39.0,7282.12,Credit Card,Delivered,2.9
+ORD10283,2023-08-15,August,Q3,Grocery,Rice 5kg,Hyderabad,Telangana,2,12514.57,3.0,24278.27,Credit Card,Delivered,3.1
+ORD10284,2023-10-09,October,Q4,Electronics,Smart Watch,Kolkata,West Bengal,4,48456.64,35.0,125987.26,Net Banking,Delivered,3.7
+ORD10285,2023-02-20,February,Q1,Toys,LEGO Set,Kolkata,West Bengal,5,32565.93,27.0,118865.64,Credit Card,Delivered,2.9
+ORD10286,2023-01-26,January,Q1,Books,Data Science Book,Madurai,Tamil Nadu,3,47585.52,3.0,138473.86,Net Banking,Delivered,2.9
+ORD10287,2023-11-30,November,Q4,Clothing,Jacket,Delhi,Delhi,3,29721.83,25.0,66874.12,Credit Card,Returned,3.7
+ORD10288,2023-10-04,October,Q4,Home & Kitchen,Water Bottle,Pune,Maharashtra,2,2725.11,13.0,4741.69,Net Banking,Cancelled,4.9
+ORD10289,2023-01-08,January,Q1,Books,Novel,Hyderabad,Telangana,2,4841.0,16.0,8132.88,Net Banking,Delivered,3.9
+ORD10290,2023-02-17,February,Q1,Electronics,Headphones,Mumbai,Maharashtra,4,4427.04,33.0,11864.47,Net Banking,Delivered,4.1
+ORD10291,2023-05-02,May,Q2,Clothing,T-Shirt,Chennai,Tamil Nadu,2,31927.62,39.0,38951.7,Credit Card,Delivered,3.7
+ORD10292,2023-03-27,March,Q1,Toys,RC Car,Kolkata,West Bengal,3,4602.29,22.0,10769.36,Net Banking,Delivered,3.0
+ORD10293,2023-07-28,July,Q3,Home & Kitchen,Curtains,Mumbai,Maharashtra,3,22015.03,11.0,58780.13,Cash on Delivery,Delivered,4.6
+ORD10294,2023-09-06,September,Q3,Home & Kitchen,Mixer Grinder,Delhi,Delhi,3,40418.6,17.0,100642.31,Debit Card,Cancelled,4.4
+ORD10295,2023-09-04,September,Q3,Electronics,Smart Watch,Ahmedabad,Gujarat,4,48283.1,27.0,140986.65,Cash on Delivery,Delivered,4.8
+ORD10296,2023-04-20,April,Q2,Grocery,Oil 1L,Delhi,Delhi,4,45143.72,29.0,128208.16,Cash on Delivery,Cancelled,3.8
+ORD10297,2023-07-25,July,Q3,Home & Kitchen,Mixer Grinder,Kolkata,West Bengal,2,47455.62,7.0,88267.45,Debit Card,Delivered,3.0
+ORD10298,2023-01-31,January,Q1,Electronics,Smart Watch,Delhi,Delhi,4,10135.87,33.0,27164.13,Cash on Delivery,Delivered,2.9
+ORD10299,2023-03-26,March,Q1,Beauty,Face Cream,Delhi,Delhi,4,27840.39,22.0,86862.02,Cash on Delivery,Returned,4.6
+ORD10300,2023-07-14,July,Q3,Electronics,Tablet,Jaipur,Rajasthan,5,39095.2,5.0,185702.2,Cash on Delivery,Cancelled,2.9
+ORD10301,2023-01-02,January,Q1,Clothing,T-Shirt,Jaipur,Rajasthan,1,39297.99,35.0,25543.69,Net Banking,Delivered,4.7
+ORD10302,2023-07-19,July,Q3,Toys,RC Car,Jaipur,Rajasthan,5,23678.68,7.0,110105.86,Cash on Delivery,Cancelled,3.5
+ORD10303,2023-05-16,May,Q2,Toys,LEGO Set,Pune,Maharashtra,3,34541.16,2.0,101551.01,UPI,Delivered,3.7
+ORD10304,2023-08-21,August,Q3,Electronics,Headphones,Hyderabad,Telangana,3,14053.32,20.0,33727.97,Credit Card,Delivered,4.2
+ORD10305,2023-05-27,May,Q2,Home & Kitchen,Bedsheet,Kolkata,West Bengal,3,13507.53,17.0,33633.75,Debit Card,Returned,4.1
+ORD10306,2023-08-05,August,Q3,Sports,Dumbbells,Kolkata,West Bengal,5,43366.09,33.0,145276.4,Debit Card,Delivered,3.8
+ORD10307,2023-12-23,December,Q4,Books,Children Book,Pune,Maharashtra,2,39036.8,21.0,61678.14,Debit Card,Delivered,3.9
+ORD10308,2023-10-12,October,Q4,Sports,Cricket Bat,Chennai,Tamil Nadu,1,22849.61,37.0,14395.25,UPI,Delivered,4.3
+ORD10309,2023-12-05,December,Q4,Grocery,Biscuits,Pune,Maharashtra,1,34074.66,10.0,30667.19,Net Banking,Delivered,3.7
+ORD10310,2023-09-07,September,Q3,Grocery,Biscuits,Ahmedabad,Gujarat,3,17245.24,34.0,34145.58,Credit Card,Delivered,3.1
+ORD10311,2023-03-21,March,Q1,Electronics,Smart Watch,Mumbai,Maharashtra,2,42698.38,31.0,58923.76,Debit Card,Delivered,3.0
+ORD10312,2023-04-08,April,Q2,Sports,Yoga Mat,Pune,Maharashtra,5,1051.62,31.0,3628.09,Credit Card,Returned,4.4
+ORD10313,2023-06-01,June,Q2,Home & Kitchen,Pressure Cooker,Jaipur,Rajasthan,1,11227.31,24.0,8532.76,UPI,Returned,4.9
+ORD10314,2023-04-22,April,Q2,Toys,Doll,Kolkata,West Bengal,3,10949.54,12.0,28906.79,Cash on Delivery,Returned,3.8
+ORD10315,2023-01-30,January,Q1,Clothing,T-Shirt,Ahmedabad,Gujarat,3,28094.78,24.0,64056.1,Credit Card,Returned,3.2
+ORD10316,2023-10-24,October,Q4,Clothing,Saree,Hyderabad,Telangana,3,43081.51,10.0,116320.08,UPI,Delivered,4.3
+ORD10317,2023-10-05,October,Q4,Home & Kitchen,Water Bottle,Chennai,Tamil Nadu,1,40281.22,32.0,27391.23,UPI,Delivered,4.0
+ORD10318,2023-02-01,February,Q1,Electronics,Smart Watch,Hyderabad,Telangana,3,45350.23,16.0,114282.58,Cash on Delivery,Cancelled,4.3
+ORD10319,2023-06-10,June,Q2,Sports,Yoga Mat,Chennai,Tamil Nadu,5,31933.76,19.0,129331.73,UPI,Cancelled,4.9
+ORD10320,2023-01-30,January,Q1,Books,Python Guide,Ahmedabad,Gujarat,2,14724.51,19.0,23853.71,Cash on Delivery,Delivered,4.4
+ORD10321,2023-01-26,January,Q1,Beauty,Face Cream,Chennai,Tamil Nadu,3,11205.23,35.0,21850.2,UPI,Delivered,3.6
+ORD10322,2023-10-27,October,Q4,Books,Children Book,Hyderabad,Telangana,4,42568.13,19.0,137920.74,Cash on Delivery,Cancelled,4.7
+ORD10323,2023-09-02,September,Q3,Clothing,Kurta,Chennai,Tamil Nadu,5,6034.81,27.0,22027.06,Net Banking,Delivered,3.8
+ORD10324,2023-09-15,September,Q3,Home & Kitchen,Pressure Cooker,Chennai,Tamil Nadu,3,20489.13,23.0,47329.89,Net Banking,Delivered,4.8
+ORD10325,2023-09-29,September,Q3,Beauty,Shampoo,Delhi,Delhi,4,16664.84,39.0,40662.21,Credit Card,Delivered,3.3
+ORD10326,2023-03-22,March,Q1,Grocery,Oil 1L,Chennai,Tamil Nadu,2,28835.13,6.0,54210.04,Credit Card,Delivered,4.5
+ORD10327,2023-01-30,January,Q1,Toys,RC Car,Pune,Maharashtra,4,48268.13,15.0,164111.64,Debit Card,Delivered,2.6
+ORD10328,2023-09-18,September,Q3,Electronics,Headphones,Ahmedabad,Gujarat,2,944.91,0.0,1889.82,Debit Card,Delivered,4.3
+ORD10329,2023-02-11,February,Q1,Books,Python Guide,Delhi,Delhi,4,25191.66,12.0,88674.64,Credit Card,Delivered,2.7
+ORD10330,2023-04-06,April,Q2,Books,UPSC Guide,Ahmedabad,Gujarat,5,26229.68,17.0,108853.17,Debit Card,Delivered,4.2
+ORD10331,2023-02-05,February,Q1,Grocery,Oil 1L,Chennai,Tamil Nadu,2,47406.81,37.0,59732.58,Debit Card,Delivered,3.5
+ORD10332,2023-11-01,November,Q4,Home & Kitchen,Pressure Cooker,Mumbai,Maharashtra,5,25256.45,5.0,119968.14,Credit Card,Returned,4.3
+ORD10333,2023-02-04,February,Q1,Books,Children Book,Jaipur,Rajasthan,1,29716.51,2.0,29122.18,Credit Card,Delivered,2.8
+ORD10334,2023-12-12,December,Q4,Clothing,Kurta,Kolkata,West Bengal,4,6223.57,10.0,22404.85,Debit Card,Delivered,4.3
+ORD10335,2023-05-01,May,Q2,Books,UPSC Guide,Delhi,Delhi,5,13535.36,24.0,51434.37,Credit Card,Cancelled,2.8
+ORD10336,2023-07-26,July,Q3,Clothing,Saree,Delhi,Delhi,1,24912.07,24.0,18933.17,Cash on Delivery,Delivered,4.4
+ORD10337,2023-03-03,March,Q1,Beauty,Lipstick,Hyderabad,Telangana,2,2018.32,20.0,3229.31,Net Banking,Delivered,3.0
+ORD10338,2023-10-19,October,Q4,Sports,Cricket Bat,Mumbai,Maharashtra,1,45348.66,33.0,30383.6,Debit Card,Delivered,4.2
+ORD10339,2023-05-07,May,Q2,Clothing,T-Shirt,Hyderabad,Telangana,2,22864.72,39.0,27894.96,Credit Card,Delivered,3.2
+ORD10340,2023-10-24,October,Q4,Home & Kitchen,Mixer Grinder,Hyderabad,Telangana,3,40089.73,13.0,104634.2,Credit Card,Delivered,4.3
+ORD10341,2023-11-01,November,Q4,Electronics,Laptop,Bangalore,Karnataka,3,17908.49,18.0,44054.89,Credit Card,Delivered,4.1
+ORD10342,2023-01-21,January,Q1,Beauty,Shampoo,Delhi,Delhi,4,20042.5,18.0,65739.4,Net Banking,Returned,4.6
+ORD10343,2023-11-14,November,Q4,Home & Kitchen,Mixer Grinder,Bangalore,Karnataka,1,49079.38,34.0,32392.39,Cash on Delivery,Returned,2.8
+ORD10344,2023-02-11,February,Q1,Grocery,Dal 1kg,Jaipur,Rajasthan,4,38969.26,24.0,118466.55,Debit Card,Returned,4.7
+ORD10345,2023-08-03,August,Q3,Grocery,Rice 5kg,Pune,Maharashtra,4,2346.32,10.0,8446.75,Cash on Delivery,Cancelled,3.3
+ORD10346,2023-12-03,December,Q4,Sports,Yoga Mat,Ahmedabad,Gujarat,5,34427.67,25.0,129103.76,Debit Card,Returned,3.6
+ORD10347,2023-10-26,October,Q4,Beauty,Lipstick,Bangalore,Karnataka,5,44608.49,25.0,167281.84,Debit Card,Cancelled,2.5
+ORD10348,2023-10-17,October,Q4,Grocery,Tea 250g,Bangalore,Karnataka,1,37583.93,13.0,32698.02,UPI,Delivered,3.3
+ORD10349,2023-09-25,September,Q3,Sports,Badminton Set,Pune,Maharashtra,4,40864.31,3.0,158553.52,Cash on Delivery,Returned,3.6
+ORD10350,2023-06-11,June,Q2,Clothing,Kurta,Kolkata,West Bengal,3,5979.41,20.0,14350.58,Credit Card,Returned,4.1
+ORD10351,2023-05-14,May,Q2,Toys,LEGO Set,Ahmedabad,Gujarat,5,58.48,4.0,280.7,Cash on Delivery,Delivered,4.0
+ORD10352,2023-04-15,April,Q2,Sports,Dumbbells,Madurai,Tamil Nadu,3,41274.28,33.0,82961.3,UPI,Cancelled,4.6
+ORD10353,2023-12-09,December,Q4,Grocery,Oil 1L,Kolkata,West Bengal,1,4916.98,26.0,3638.57,UPI,Delivered,2.5
+ORD10354,2023-06-10,June,Q2,Beauty,Face Cream,Mumbai,Maharashtra,2,24646.49,33.0,33026.3,Net Banking,Delivered,4.4
+ORD10355,2023-05-03,May,Q2,Books,Children Book,Chennai,Tamil Nadu,2,6081.25,34.0,8027.25,Debit Card,Delivered,3.0
+ORD10356,2023-05-16,May,Q2,Clothing,Kurta,Mumbai,Maharashtra,5,6204.8,36.0,19855.36,Cash on Delivery,Cancelled,3.6
+ORD10357,2023-07-22,July,Q3,Home & Kitchen,Curtains,Mumbai,Maharashtra,5,36823.89,22.0,143613.17,Cash on Delivery,Returned,3.6
+ORD10358,2023-03-09,March,Q1,Home & Kitchen,Water Bottle,Bangalore,Karnataka,2,5222.52,26.0,7729.33,UPI,Cancelled,4.0
+ORD10359,2023-12-10,December,Q4,Toys,RC Car,Jaipur,Rajasthan,2,13716.11,39.0,16733.65,Net Banking,Delivered,4.9
+ORD10360,2023-11-27,November,Q4,Home & Kitchen,Curtains,Jaipur,Rajasthan,5,14980.71,28.0,53930.56,Cash on Delivery,Delivered,4.7
+ORD10361,2023-06-03,June,Q2,Sports,Football,Jaipur,Rajasthan,3,34346.23,37.0,64914.37,Debit Card,Cancelled,2.8
+ORD10362,2023-08-23,August,Q3,Beauty,Face Cream,Madurai,Tamil Nadu,5,24044.48,23.0,92571.25,Net Banking,Cancelled,4.2
+ORD10363,2023-06-11,June,Q2,Books,UPSC Guide,Mumbai,Maharashtra,5,5368.2,15.0,22814.85,Credit Card,Delivered,2.6
+ORD10364,2023-02-07,February,Q1,Books,Python Guide,Hyderabad,Telangana,3,7364.1,2.0,21650.45,Debit Card,Cancelled,4.5
+ORD10365,2023-01-05,January,Q1,Electronics,Headphones,Kolkata,West Bengal,1,30824.64,27.0,22501.99,Debit Card,Cancelled,3.9
+ORD10366,2023-08-23,August,Q3,Toys,Board Game,Ahmedabad,Gujarat,3,34662.16,2.0,101906.75,Net Banking,Delivered,3.5
+ORD10367,2023-11-15,November,Q4,Electronics,Smartphone,Hyderabad,Telangana,2,31047.06,31.0,42844.94,Debit Card,Delivered,4.7
+ORD10368,2023-10-16,October,Q4,Sports,Football,Hyderabad,Telangana,4,8912.42,27.0,26024.27,Debit Card,Cancelled,3.0
+ORD10369,2023-02-21,February,Q1,Clothing,Kurta,Mumbai,Maharashtra,4,13991.66,11.0,49810.31,UPI,Delivered,2.9
+ORD10370,2023-02-07,February,Q1,Beauty,Lipstick,Bangalore,Karnataka,1,7727.48,13.0,6722.91,Cash on Delivery,Delivered,2.6
+ORD10371,2023-10-03,October,Q4,Grocery,Biscuits,Ahmedabad,Gujarat,3,3690.4,28.0,7971.26,Debit Card,Cancelled,3.8
+ORD10372,2023-04-20,April,Q2,Clothing,Jacket,Bangalore,Karnataka,4,27176.85,16.0,91314.22,Debit Card,Delivered,3.4
+ORD10373,2023-09-17,September,Q3,Beauty,Perfume,Hyderabad,Telangana,2,47517.9,25.0,71276.85,Cash on Delivery,Delivered,3.7
+ORD10374,2023-05-16,May,Q2,Clothing,Saree,Kolkata,West Bengal,2,45229.6,25.0,67844.4,Credit Card,Delivered,4.1
+ORD10375,2023-03-09,March,Q1,Toys,LEGO Set,Pune,Maharashtra,3,27034.85,11.0,72183.05,UPI,Cancelled,4.8
+ORD10376,2023-06-28,June,Q2,Grocery,Tea 250g,Mumbai,Maharashtra,3,44919.17,8.0,123976.91,Credit Card,Delivered,3.8
+ORD10377,2023-02-05,February,Q1,Electronics,Smartphone,Chennai,Tamil Nadu,2,43254.3,17.0,71802.14,Cash on Delivery,Returned,2.8
+ORD10378,2023-05-06,May,Q2,Clothing,Jeans,Mumbai,Maharashtra,4,35857.57,2.0,140561.67,Debit Card,Delivered,2.7
+ORD10379,2023-07-09,July,Q3,Clothing,Jacket,Chennai,Tamil Nadu,3,20411.26,18.0,50211.7,UPI,Delivered,3.5
+ORD10380,2023-05-26,May,Q2,Toys,LEGO Set,Ahmedabad,Gujarat,1,32089.07,25.0,24066.8,Cash on Delivery,Delivered,4.4
+ORD10381,2023-03-22,March,Q1,Clothing,Saree,Ahmedabad,Gujarat,1,14527.34,27.0,10604.96,UPI,Returned,4.0
+ORD10382,2023-08-13,August,Q3,Toys,RC Car,Mumbai,Maharashtra,4,7858.36,9.0,28604.43,Cash on Delivery,Delivered,4.4
+ORD10383,2023-10-06,October,Q4,Home & Kitchen,Bedsheet,Madurai,Tamil Nadu,1,27698.53,22.0,21604.85,Credit Card,Cancelled,2.8
+ORD10384,2023-12-27,December,Q4,Toys,Puzzle,Ahmedabad,Gujarat,1,15269.32,30.0,10688.52,UPI,Delivered,4.8
+ORD10385,2023-06-04,June,Q2,Toys,Puzzle,Bangalore,Karnataka,2,9240.44,25.0,13860.66,Credit Card,Delivered,3.1
+ORD10386,2023-11-10,November,Q4,Electronics,Tablet,Kolkata,West Bengal,5,3703.57,27.0,13518.03,Debit Card,Cancelled,3.1
+ORD10387,2023-12-01,December,Q4,Grocery,Oil 1L,Madurai,Tamil Nadu,2,33581.21,9.0,61117.8,Credit Card,Delivered,3.2
+ORD10388,2023-09-28,September,Q3,Beauty,Lipstick,Kolkata,West Bengal,3,30836.3,12.0,81407.83,Cash on Delivery,Cancelled,4.0
+ORD10389,2023-01-05,January,Q1,Beauty,Perfume,Pune,Maharashtra,2,291.35,10.0,524.43,Net Banking,Delivered,3.1
+ORD10390,2023-12-08,December,Q4,Beauty,Shampoo,Madurai,Tamil Nadu,4,23169.28,14.0,79702.32,Cash on Delivery,Delivered,3.3
+ORD10391,2023-10-11,October,Q4,Home & Kitchen,Water Bottle,Delhi,Delhi,3,42942.75,6.0,121098.55,UPI,Delivered,3.8
+ORD10392,2023-06-03,June,Q2,Clothing,T-Shirt,Ahmedabad,Gujarat,1,40641.49,23.0,31293.95,Debit Card,Delivered,4.4
+ORD10393,2023-12-06,December,Q4,Books,Children Book,Ahmedabad,Gujarat,4,32712.71,6.0,122999.79,Cash on Delivery,Delivered,3.5
+ORD10394,2023-02-23,February,Q1,Home & Kitchen,Curtains,Ahmedabad,Gujarat,5,4573.17,15.0,19435.97,Debit Card,Cancelled,2.5
+ORD10395,2023-03-10,March,Q1,Home & Kitchen,Water Bottle,Bangalore,Karnataka,4,8003.16,23.0,24649.73,Debit Card,Returned,3.9
+ORD10396,2023-05-16,May,Q2,Beauty,Face Cream,Chennai,Tamil Nadu,4,11625.91,11.0,41388.24,Debit Card,Cancelled,3.1
+ORD10397,2023-03-01,March,Q1,Beauty,Lipstick,Kolkata,West Bengal,4,44083.52,2.0,172807.4,Credit Card,Cancelled,4.1
+ORD10398,2023-02-24,February,Q1,Books,Novel,Jaipur,Rajasthan,5,28529.5,15.0,121250.38,Cash on Delivery,Delivered,3.4
+ORD10399,2023-10-11,October,Q4,Books,UPSC Guide,Chennai,Tamil Nadu,5,20321.82,33.0,68078.1,Net Banking,Cancelled,3.4
+ORD10400,2023-03-21,March,Q1,Electronics,Tablet,Bangalore,Karnataka,4,8322.01,3.0,32289.4,Debit Card,Delivered,4.1
+ORD10401,2023-05-20,May,Q2,Home & Kitchen,Pressure Cooker,Madurai,Tamil Nadu,5,35879.27,5.0,170426.53,UPI,Delivered,3.1
+ORD10402,2023-05-25,May,Q2,Grocery,Tea 250g,Kolkata,West Bengal,2,29560.01,26.0,43748.81,Debit Card,Delivered,3.5
+ORD10403,2023-11-06,November,Q4,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,2,6779.47,21.0,10711.56,Debit Card,Delivered,4.7
+ORD10404,2023-04-18,April,Q2,Home & Kitchen,Bedsheet,Bangalore,Karnataka,5,47914.0,24.0,182073.2,Credit Card,Delivered,3.9
+ORD10405,2023-06-25,June,Q2,Clothing,Jeans,Kolkata,West Bengal,5,49639.15,35.0,161327.24,Net Banking,Cancelled,2.9
+ORD10406,2023-04-15,April,Q2,Home & Kitchen,Water Bottle,Bangalore,Karnataka,5,32999.46,11.0,146847.6,UPI,Returned,4.3
+ORD10407,2023-12-18,December,Q4,Clothing,Jeans,Pune,Maharashtra,4,6654.05,1.0,26350.04,Cash on Delivery,Returned,3.8
+ORD10408,2023-11-21,November,Q4,Home & Kitchen,Water Bottle,Delhi,Delhi,2,23819.67,25.0,35729.5,Cash on Delivery,Cancelled,2.6
+ORD10409,2023-05-16,May,Q2,Clothing,T-Shirt,Kolkata,West Bengal,2,45104.14,22.0,70362.46,Net Banking,Cancelled,2.5
+ORD10410,2023-09-16,September,Q3,Toys,Doll,Mumbai,Maharashtra,5,21476.37,38.0,66576.75,Net Banking,Delivered,3.7
+ORD10411,2023-09-08,September,Q3,Clothing,Kurta,Bangalore,Karnataka,3,23883.2,9.0,65201.14,UPI,Cancelled,4.6
+ORD10412,2023-05-09,May,Q2,Toys,Doll,Chennai,Tamil Nadu,1,35471.98,32.0,24120.95,Credit Card,Cancelled,3.9
+ORD10413,2023-01-27,January,Q1,Electronics,Smart Watch,Chennai,Tamil Nadu,3,20471.81,4.0,58958.81,Cash on Delivery,Delivered,3.6
+ORD10414,2023-02-17,February,Q1,Books,Children Book,Pune,Maharashtra,5,18313.92,11.0,81496.94,Debit Card,Returned,4.2
+ORD10415,2023-11-21,November,Q4,Grocery,Dal 1kg,Madurai,Tamil Nadu,5,27767.82,10.0,124955.19,UPI,Returned,3.3
+ORD10416,2023-08-05,August,Q3,Home & Kitchen,Mixer Grinder,Chennai,Tamil Nadu,4,39166.31,38.0,97132.45,Cash on Delivery,Returned,2.8
+ORD10417,2023-05-22,May,Q2,Beauty,Sunscreen,Jaipur,Rajasthan,1,8078.86,39.0,4928.1,Credit Card,Delivered,2.5
+ORD10418,2023-01-23,January,Q1,Grocery,Biscuits,Pune,Maharashtra,1,3250.82,9.0,2958.25,Credit Card,Returned,2.7
+ORD10419,2023-01-02,January,Q1,Toys,Puzzle,Ahmedabad,Gujarat,3,35594.71,24.0,81155.94,Debit Card,Returned,4.9
+ORD10420,2023-06-20,June,Q2,Grocery,Rice 5kg,Chennai,Tamil Nadu,5,14336.03,1.0,70963.35,Cash on Delivery,Delivered,4.0
+ORD10421,2023-03-08,March,Q1,Home & Kitchen,Mixer Grinder,Madurai,Tamil Nadu,2,32768.21,39.0,39977.22,UPI,Returned,2.7
+ORD10422,2023-11-23,November,Q4,Beauty,Lipstick,Pune,Maharashtra,5,10055.5,1.0,49774.72,Credit Card,Cancelled,4.3
+ORD10423,2023-05-15,May,Q2,Books,Children Book,Jaipur,Rajasthan,3,17406.38,33.0,34986.82,Debit Card,Returned,3.1
+ORD10424,2023-03-24,March,Q1,Toys,Puzzle,Mumbai,Maharashtra,3,8792.99,20.0,21103.18,Cash on Delivery,Delivered,3.9
+ORD10425,2023-08-15,August,Q3,Beauty,Face Cream,Ahmedabad,Gujarat,3,43811.85,33.0,88061.82,Net Banking,Returned,3.9
+ORD10426,2023-10-10,October,Q4,Grocery,Dal 1kg,Madurai,Tamil Nadu,4,34095.65,36.0,87284.86,Net Banking,Delivered,4.7
+ORD10427,2023-12-28,December,Q4,Books,Data Science Book,Pune,Maharashtra,2,33861.8,9.0,61628.48,UPI,Cancelled,3.3
+ORD10428,2023-08-07,August,Q3,Electronics,Headphones,Chennai,Tamil Nadu,3,4695.82,27.0,10283.85,Credit Card,Cancelled,4.6
+ORD10429,2023-10-15,October,Q4,Home & Kitchen,Curtains,Madurai,Tamil Nadu,3,10967.38,23.0,25334.65,Debit Card,Returned,3.0
+ORD10430,2023-01-05,January,Q1,Sports,Football,Chennai,Tamil Nadu,3,10378.59,8.0,28644.91,Cash on Delivery,Delivered,3.1
+ORD10431,2023-02-27,February,Q1,Home & Kitchen,Mixer Grinder,Delhi,Delhi,1,33806.82,27.0,24678.98,Cash on Delivery,Delivered,4.0
+ORD10432,2023-02-08,February,Q1,Grocery,Oil 1L,Jaipur,Rajasthan,3,24642.4,39.0,45095.59,UPI,Returned,4.7
+ORD10433,2023-12-20,December,Q4,Home & Kitchen,Water Bottle,Hyderabad,Telangana,4,11143.53,23.0,34322.07,Net Banking,Returned,2.6
+ORD10434,2023-03-18,March,Q1,Electronics,Tablet,Madurai,Tamil Nadu,4,43026.99,31.0,118754.49,Credit Card,Cancelled,3.6
+ORD10435,2023-10-07,October,Q4,Grocery,Oil 1L,Mumbai,Maharashtra,1,33721.45,15.0,28663.23,UPI,Cancelled,2.8
+ORD10436,2023-01-19,January,Q1,Books,Python Guide,Ahmedabad,Gujarat,3,11895.1,19.0,28905.09,UPI,Delivered,4.0
+ORD10437,2023-07-09,July,Q3,Grocery,Tea 250g,Chennai,Tamil Nadu,4,35050.6,15.0,119172.04,UPI,Returned,4.6
+ORD10438,2023-10-26,October,Q4,Home & Kitchen,Water Bottle,Bangalore,Karnataka,5,34316.3,33.0,114959.6,Debit Card,Cancelled,4.3
+ORD10439,2023-10-10,October,Q4,Toys,RC Car,Chennai,Tamil Nadu,2,40011.87,30.0,56016.62,Credit Card,Delivered,3.7
+ORD10440,2023-03-17,March,Q1,Toys,RC Car,Bangalore,Karnataka,5,26722.43,13.0,116242.57,UPI,Cancelled,3.7
+ORD10441,2023-08-09,August,Q3,Electronics,Smart Watch,Delhi,Delhi,2,3048.82,33.0,4085.42,Credit Card,Returned,3.7
+ORD10442,2023-03-07,March,Q1,Beauty,Perfume,Madurai,Tamil Nadu,3,28039.48,37.0,52994.62,Credit Card,Returned,3.1
+ORD10443,2023-01-22,January,Q1,Clothing,Saree,Jaipur,Rajasthan,2,28863.85,26.0,42718.5,UPI,Delivered,3.8
+ORD10444,2023-06-07,June,Q2,Beauty,Sunscreen,Kolkata,West Bengal,4,44487.14,15.0,151256.28,Debit Card,Delivered,3.2
+ORD10445,2023-07-06,July,Q3,Beauty,Lipstick,Jaipur,Rajasthan,5,20268.4,36.0,64858.88,UPI,Delivered,2.7
+ORD10446,2023-01-21,January,Q1,Beauty,Perfume,Hyderabad,Telangana,3,30288.98,16.0,76328.23,UPI,Cancelled,4.7
+ORD10447,2023-07-03,July,Q3,Grocery,Tea 250g,Bangalore,Karnataka,2,42717.88,5.0,81163.97,UPI,Delivered,3.1
+ORD10448,2023-04-18,April,Q2,Sports,Football,Pune,Maharashtra,1,4822.91,37.0,3038.43,Credit Card,Delivered,3.7
+ORD10449,2023-12-16,December,Q4,Toys,Puzzle,Delhi,Delhi,1,13159.49,6.0,12369.92,Net Banking,Delivered,4.1
+ORD10450,2023-05-08,May,Q2,Sports,Football,Hyderabad,Telangana,4,31342.71,5.0,119102.3,Credit Card,Delivered,4.6
+ORD10451,2023-12-08,December,Q4,Beauty,Perfume,Kolkata,West Bengal,4,48750.33,22.0,152101.03,Net Banking,Delivered,3.2
+ORD10452,2023-02-22,February,Q1,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,4,31570.82,25.0,94712.46,Cash on Delivery,Cancelled,3.9
+ORD10453,2023-07-01,July,Q3,Books,Novel,Kolkata,West Bengal,5,11395.07,4.0,54696.34,Net Banking,Delivered,3.3
+ORD10454,2023-10-14,October,Q4,Home & Kitchen,Bedsheet,Mumbai,Maharashtra,1,26189.65,30.0,18332.76,UPI,Returned,2.8
+ORD10455,2023-07-28,July,Q3,Electronics,Smart Watch,Kolkata,West Bengal,3,506.17,17.0,1260.36,Debit Card,Delivered,3.2
+ORD10456,2023-11-14,November,Q4,Beauty,Shampoo,Pune,Maharashtra,5,21883.46,10.0,98475.57,Net Banking,Returned,4.3
+ORD10457,2023-03-21,March,Q1,Sports,Yoga Mat,Delhi,Delhi,4,31284.88,21.0,98860.22,Cash on Delivery,Delivered,4.5
+ORD10458,2023-05-02,May,Q2,Books,Children Book,Hyderabad,Telangana,4,9440.63,3.0,36629.64,Credit Card,Returned,2.8
+ORD10459,2023-03-25,March,Q1,Grocery,Oil 1L,Jaipur,Rajasthan,4,9430.08,1.0,37343.12,Cash on Delivery,Delivered,2.6
+ORD10460,2023-04-01,April,Q2,Home & Kitchen,Mixer Grinder,Hyderabad,Telangana,3,6295.71,18.0,15487.45,Credit Card,Delivered,2.5
+ORD10461,2023-07-31,July,Q3,Electronics,Smart Watch,Chennai,Tamil Nadu,3,21041.14,31.0,43555.16,UPI,Returned,3.7
+ORD10462,2023-01-13,January,Q1,Electronics,Headphones,Delhi,Delhi,2,2849.12,31.0,3931.79,Net Banking,Delivered,2.7
+ORD10463,2023-04-02,April,Q2,Sports,Yoga Mat,Pune,Maharashtra,1,6141.98,31.0,4237.97,Net Banking,Delivered,3.1
+ORD10464,2023-06-20,June,Q2,Electronics,Laptop,Kolkata,West Bengal,1,26080.9,39.0,15909.35,UPI,Delivered,3.7
+ORD10465,2023-07-30,July,Q3,Home & Kitchen,Mixer Grinder,Ahmedabad,Gujarat,5,6150.97,19.0,24911.43,UPI,Delivered,3.2
+ORD10466,2023-12-09,December,Q4,Sports,Cricket Bat,Chennai,Tamil Nadu,4,16259.45,7.0,60485.15,Credit Card,Returned,3.2
+ORD10467,2023-05-08,May,Q2,Sports,Cricket Bat,Mumbai,Maharashtra,5,39184.59,19.0,158697.59,UPI,Delivered,4.0
+ORD10468,2023-05-17,May,Q2,Sports,Football,Kolkata,West Bengal,1,34312.93,14.0,29509.12,Credit Card,Delivered,4.9
+ORD10469,2023-03-23,March,Q1,Beauty,Shampoo,Ahmedabad,Gujarat,1,6335.08,9.0,5764.92,UPI,Returned,5.0
+ORD10470,2023-12-26,December,Q4,Sports,Cricket Bat,Pune,Maharashtra,3,36233.74,10.0,97831.1,Net Banking,Cancelled,2.6
+ORD10471,2023-02-25,February,Q1,Books,Children Book,Kolkata,West Bengal,2,28356.75,22.0,44236.53,Net Banking,Delivered,3.3
+ORD10472,2023-07-15,July,Q3,Home & Kitchen,Mixer Grinder,Ahmedabad,Gujarat,2,22496.74,33.0,30145.63,Net Banking,Delivered,3.9
+ORD10473,2023-01-20,January,Q1,Toys,Board Game,Mumbai,Maharashtra,5,42848.62,31.0,147827.74,Credit Card,Cancelled,3.1
+ORD10474,2023-08-29,August,Q3,Toys,Board Game,Ahmedabad,Gujarat,4,38298.42,6.0,144002.06,Net Banking,Delivered,3.2
+ORD10475,2023-04-24,April,Q2,Clothing,T-Shirt,Ahmedabad,Gujarat,1,2236.67,38.0,1386.74,Credit Card,Delivered,2.9
+ORD10476,2023-04-13,April,Q2,Clothing,Kurta,Chennai,Tamil Nadu,1,1639.27,26.0,1213.06,Net Banking,Cancelled,3.5
+ORD10477,2023-08-24,August,Q3,Books,Data Science Book,Madurai,Tamil Nadu,2,30317.38,3.0,58815.72,Debit Card,Returned,4.8
+ORD10478,2023-06-29,June,Q2,Clothing,Kurta,Mumbai,Maharashtra,3,27923.09,38.0,51936.95,UPI,Delivered,3.5
+ORD10479,2023-06-06,June,Q2,Books,Children Book,Mumbai,Maharashtra,1,41731.1,3.0,40479.17,Cash on Delivery,Delivered,3.0
+ORD10480,2023-04-27,April,Q2,Clothing,Jeans,Ahmedabad,Gujarat,4,9513.55,21.0,30062.82,Debit Card,Cancelled,3.1
+ORD10481,2023-04-25,April,Q2,Toys,LEGO Set,Jaipur,Rajasthan,3,33740.9,28.0,72880.34,Credit Card,Delivered,3.6
+ORD10482,2023-01-13,January,Q1,Home & Kitchen,Water Bottle,Pune,Maharashtra,5,16908.77,6.0,79471.22,Net Banking,Delivered,5.0
+ORD10483,2023-12-04,December,Q4,Beauty,Sunscreen,Madurai,Tamil Nadu,3,20646.55,25.0,46454.74,UPI,Cancelled,4.6
+ORD10484,2023-04-09,April,Q2,Sports,Badminton Set,Ahmedabad,Gujarat,2,18784.4,22.0,29303.66,UPI,Returned,4.4
+ORD10485,2023-07-24,July,Q3,Grocery,Tea 250g,Mumbai,Maharashtra,1,49148.68,24.0,37353.0,UPI,Delivered,3.8
+ORD10486,2023-06-18,June,Q2,Books,Python Guide,Chennai,Tamil Nadu,3,1133.98,33.0,2279.3,UPI,Cancelled,4.2
+ORD10487,2023-05-23,May,Q2,Home & Kitchen,Mixer Grinder,Mumbai,Maharashtra,4,17815.0,6.0,66984.4,Cash on Delivery,Delivered,3.4
+ORD10488,2023-02-05,February,Q1,Sports,Yoga Mat,Hyderabad,Telangana,1,28545.83,23.0,21980.29,Credit Card,Delivered,3.0
+ORD10489,2023-05-23,May,Q2,Grocery,Dal 1kg,Kolkata,West Bengal,5,40984.79,4.0,196726.99,Credit Card,Cancelled,4.1
+ORD10490,2023-06-29,June,Q2,Toys,LEGO Set,Mumbai,Maharashtra,3,17429.11,33.0,35032.51,Credit Card,Delivered,3.5
+ORD10491,2023-11-25,November,Q4,Electronics,Smart Watch,Mumbai,Maharashtra,3,26242.95,13.0,68494.1,UPI,Cancelled,3.9
+ORD10492,2023-09-18,September,Q3,Sports,Football,Mumbai,Maharashtra,4,48553.46,30.0,135949.69,Credit Card,Delivered,3.9
+ORD10493,2023-07-24,July,Q3,Toys,Doll,Pune,Maharashtra,2,6652.84,3.0,12906.51,Credit Card,Cancelled,3.9
+ORD10494,2023-12-14,December,Q4,Toys,Doll,Delhi,Delhi,4,25116.06,31.0,69320.33,Debit Card,Returned,2.8
+ORD10495,2023-10-02,October,Q4,Sports,Dumbbells,Pune,Maharashtra,5,9845.16,25.0,36919.35,Debit Card,Delivered,4.3
+ORD10496,2023-06-19,June,Q2,Clothing,Saree,Pune,Maharashtra,3,34252.66,23.0,79123.64,Net Banking,Returned,2.8
+ORD10497,2023-01-15,January,Q1,Beauty,Perfume,Chennai,Tamil Nadu,3,17259.02,26.0,38315.02,Debit Card,Delivered,4.4
+ORD10498,2023-03-01,March,Q1,Grocery,Biscuits,Bangalore,Karnataka,4,2291.63,33.0,6141.57,UPI,Delivered,3.0
+ORD10499,2023-05-14,May,Q2,Clothing,T-Shirt,Mumbai,Maharashtra,2,47449.6,37.0,59786.5,UPI,Delivered,4.7
+ORD10500,2023-04-02,April,Q2,Beauty,Face Cream,Hyderabad,Telangana,4,23585.96,13.0,82079.14,Debit Card,Delivered,4.4
+ORD10501,2023-10-25,October,Q4,Books,Children Book,Kolkata,West Bengal,5,36509.68,6.0,171595.5,Credit Card,Returned,4.2
+ORD10502,2023-05-16,May,Q2,Electronics,Headphones,Bangalore,Karnataka,1,14236.48,32.0,9680.81,Credit Card,Returned,4.0
+ORD10503,2023-01-20,January,Q1,Electronics,Smartphone,Pune,Maharashtra,3,33165.93,37.0,62683.61,Credit Card,Delivered,3.4
+ORD10504,2023-02-25,February,Q1,Books,UPSC Guide,Chennai,Tamil Nadu,4,25451.59,28.0,73300.58,Net Banking,Cancelled,4.8
+ORD10505,2023-11-02,November,Q4,Clothing,Jeans,Chennai,Tamil Nadu,5,48341.23,22.0,188530.8,Credit Card,Delivered,4.3
+ORD10506,2023-08-11,August,Q3,Books,Novel,Kolkata,West Bengal,4,37232.32,1.0,147439.99,UPI,Delivered,4.2
+ORD10507,2023-06-26,June,Q2,Sports,Badminton Set,Hyderabad,Telangana,1,31308.33,35.0,20350.41,Credit Card,Cancelled,4.7
+ORD10508,2023-06-10,June,Q2,Books,Python Guide,Bangalore,Karnataka,3,44863.91,26.0,99597.88,Net Banking,Cancelled,2.7
+ORD10509,2023-08-12,August,Q3,Sports,Dumbbells,Chennai,Tamil Nadu,5,7679.82,39.0,23423.45,UPI,Returned,4.8
+ORD10510,2023-11-07,November,Q4,Home & Kitchen,Pressure Cooker,Bangalore,Karnataka,5,27090.62,32.0,92108.11,UPI,Cancelled,4.7
+ORD10511,2023-09-19,September,Q3,Home & Kitchen,Curtains,Bangalore,Karnataka,5,45859.75,13.0,199489.91,Credit Card,Delivered,3.9
+ORD10512,2023-03-01,March,Q1,Beauty,Shampoo,Mumbai,Maharashtra,3,44012.59,17.0,109591.35,Net Banking,Delivered,3.5
+ORD10513,2023-07-17,July,Q3,Home & Kitchen,Pressure Cooker,Delhi,Delhi,2,9278.09,30.0,12989.33,UPI,Cancelled,4.0
+ORD10514,2023-10-23,October,Q4,Sports,Badminton Set,Chennai,Tamil Nadu,2,34384.53,14.0,59141.39,Net Banking,Delivered,4.2
+ORD10515,2023-04-08,April,Q2,Grocery,Oil 1L,Bangalore,Karnataka,4,24597.71,6.0,92487.39,Credit Card,Returned,3.0
+ORD10516,2023-05-11,May,Q2,Electronics,Headphones,Pune,Maharashtra,2,37131.21,40.0,44557.45,Credit Card,Delivered,4.4
+ORD10517,2023-01-23,January,Q1,Grocery,Biscuits,Kolkata,West Bengal,3,43345.41,36.0,83223.19,Credit Card,Cancelled,3.6
+ORD10518,2023-12-29,December,Q4,Toys,Doll,Pune,Maharashtra,5,46960.0,23.0,180796.0,Credit Card,Cancelled,3.8
+ORD10519,2023-08-12,August,Q3,Clothing,Kurta,Kolkata,West Bengal,1,43895.11,10.0,39505.6,Credit Card,Cancelled,3.8
+ORD10520,2023-01-01,January,Q1,Toys,Puzzle,Mumbai,Maharashtra,2,14594.41,16.0,24518.61,UPI,Returned,3.3
+ORD10521,2023-09-24,September,Q3,Home & Kitchen,Curtains,Hyderabad,Telangana,5,45955.69,28.0,165440.48,Net Banking,Returned,4.8
+ORD10522,2023-10-03,October,Q4,Clothing,Jacket,Delhi,Delhi,2,38947.62,38.0,48295.05,Debit Card,Returned,4.2
+ORD10523,2023-12-18,December,Q4,Toys,Doll,Kolkata,West Bengal,1,8984.99,24.0,6828.59,Debit Card,Returned,4.3
+ORD10524,2023-12-10,December,Q4,Clothing,Saree,Madurai,Tamil Nadu,2,35932.82,5.0,68272.36,Net Banking,Delivered,2.8
+ORD10525,2023-04-11,April,Q2,Clothing,Jacket,Pune,Maharashtra,5,30623.02,6.0,143928.19,Credit Card,Delivered,3.9
+ORD10526,2023-07-06,July,Q3,Beauty,Sunscreen,Bangalore,Karnataka,2,43447.49,7.0,80812.33,Net Banking,Delivered,4.3
+ORD10527,2023-08-09,August,Q3,Books,UPSC Guide,Hyderabad,Telangana,2,5921.82,5.0,11251.46,Cash on Delivery,Delivered,3.0
+ORD10528,2023-02-05,February,Q1,Electronics,Smart Watch,Kolkata,West Bengal,4,27197.88,0.0,108791.52,Debit Card,Delivered,4.7
+ORD10529,2023-12-07,December,Q4,Grocery,Tea 250g,Pune,Maharashtra,4,4016.28,24.0,12209.49,Cash on Delivery,Delivered,3.1
+ORD10530,2023-06-19,June,Q2,Sports,Cricket Bat,Bangalore,Karnataka,2,2800.44,14.0,4816.76,Credit Card,Cancelled,2.9
+ORD10531,2023-11-16,November,Q4,Books,Novel,Delhi,Delhi,1,5488.94,40.0,3293.36,UPI,Cancelled,2.9
+ORD10532,2023-06-10,June,Q2,Home & Kitchen,Curtains,Jaipur,Rajasthan,3,46577.42,4.0,134142.97,UPI,Returned,3.2
+ORD10533,2023-12-06,December,Q4,Clothing,Kurta,Ahmedabad,Gujarat,1,14676.99,5.0,13943.14,UPI,Delivered,4.2
+ORD10534,2023-03-05,March,Q1,Toys,Puzzle,Chennai,Tamil Nadu,2,30622.08,4.0,58794.39,Cash on Delivery,Delivered,4.3
+ORD10535,2023-06-03,June,Q2,Grocery,Biscuits,Hyderabad,Telangana,4,30461.79,13.0,106007.03,Cash on Delivery,Delivered,3.8
+ORD10536,2023-09-17,September,Q3,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,4,26009.3,25.0,78027.9,Debit Card,Cancelled,3.7
+ORD10537,2023-06-08,June,Q2,Sports,Yoga Mat,Chennai,Tamil Nadu,1,5954.45,19.0,4823.1,Debit Card,Cancelled,4.5
+ORD10538,2023-12-08,December,Q4,Toys,RC Car,Mumbai,Maharashtra,3,17515.02,32.0,35730.64,Debit Card,Delivered,3.0
+ORD10539,2023-07-29,July,Q3,Books,Data Science Book,Hyderabad,Telangana,3,25359.15,13.0,66187.38,UPI,Delivered,2.5
+ORD10540,2023-06-17,June,Q2,Toys,Puzzle,Jaipur,Rajasthan,1,41610.54,8.0,38281.7,Net Banking,Returned,4.6
+ORD10541,2023-07-26,July,Q3,Electronics,Laptop,Kolkata,West Bengal,2,31378.66,36.0,40164.68,UPI,Returned,3.8
+ORD10542,2023-12-23,December,Q4,Toys,LEGO Set,Ahmedabad,Gujarat,3,28268.88,27.0,61908.85,Credit Card,Delivered,3.9
+ORD10543,2023-06-01,June,Q2,Beauty,Perfume,Delhi,Delhi,2,14058.98,1.0,27836.78,Cash on Delivery,Delivered,5.0
+ORD10544,2023-10-11,October,Q4,Toys,Board Game,Jaipur,Rajasthan,1,43236.45,30.0,30265.51,UPI,Delivered,4.3
+ORD10545,2023-03-07,March,Q1,Books,UPSC Guide,Delhi,Delhi,4,43858.58,15.0,149119.17,UPI,Delivered,4.6
+ORD10546,2023-04-09,April,Q2,Books,Python Guide,Delhi,Delhi,3,39257.95,31.0,81263.96,Net Banking,Cancelled,4.8
+ORD10547,2023-08-04,August,Q3,Electronics,Smart Watch,Ahmedabad,Gujarat,2,9551.07,37.0,12034.35,Cash on Delivery,Delivered,4.3
+ORD10548,2023-12-07,December,Q4,Beauty,Shampoo,Delhi,Delhi,5,33852.03,5.0,160797.14,Net Banking,Returned,4.3
+ORD10549,2023-07-14,July,Q3,Clothing,T-Shirt,Hyderabad,Telangana,1,34368.26,24.0,26119.88,Net Banking,Delivered,2.7
+ORD10550,2023-12-13,December,Q4,Clothing,Jacket,Hyderabad,Telangana,1,28899.11,12.0,25431.22,UPI,Delivered,4.7
+ORD10551,2023-03-31,March,Q1,Sports,Yoga Mat,Hyderabad,Telangana,5,15991.53,18.0,65565.27,Debit Card,Delivered,2.8
+ORD10552,2023-11-12,November,Q4,Books,Data Science Book,Mumbai,Maharashtra,5,28003.31,4.0,134415.89,Cash on Delivery,Delivered,3.9
+ORD10553,2023-10-19,October,Q4,Books,Python Guide,Hyderabad,Telangana,5,12279.01,3.0,59553.2,UPI,Cancelled,4.0
+ORD10554,2023-06-04,June,Q2,Grocery,Rice 5kg,Bangalore,Karnataka,1,23563.24,27.0,17201.17,Credit Card,Delivered,2.8
+ORD10555,2023-07-27,July,Q3,Toys,RC Car,Bangalore,Karnataka,5,44569.23,25.0,167134.61,Net Banking,Cancelled,4.2
+ORD10556,2023-10-08,October,Q4,Beauty,Perfume,Madurai,Tamil Nadu,2,35659.29,27.0,52062.56,Net Banking,Cancelled,3.8
+ORD10557,2023-01-01,January,Q1,Home & Kitchen,Mixer Grinder,Kolkata,West Bengal,1,22806.43,27.0,16648.69,Net Banking,Returned,4.3
+ORD10558,2023-06-05,June,Q2,Sports,Football,Bangalore,Karnataka,5,12939.74,15.0,54993.89,UPI,Delivered,3.0
+ORD10559,2023-05-27,May,Q2,Grocery,Tea 250g,Mumbai,Maharashtra,1,23792.95,14.0,20461.94,Debit Card,Delivered,3.7
+ORD10560,2023-04-18,April,Q2,Beauty,Sunscreen,Jaipur,Rajasthan,2,25422.09,16.0,42709.11,Credit Card,Delivered,4.3
+ORD10561,2023-08-09,August,Q3,Clothing,Saree,Ahmedabad,Gujarat,4,20070.78,17.0,66634.99,Cash on Delivery,Delivered,4.1
+ORD10562,2023-10-24,October,Q4,Grocery,Tea 250g,Delhi,Delhi,3,10451.5,28.0,22575.24,Net Banking,Cancelled,3.6
+ORD10563,2023-11-07,November,Q4,Beauty,Sunscreen,Chennai,Tamil Nadu,2,33147.48,3.0,64306.11,Cash on Delivery,Returned,4.8
+ORD10564,2023-12-02,December,Q4,Clothing,Jacket,Jaipur,Rajasthan,4,16302.64,4.0,62602.14,UPI,Returned,3.6
+ORD10565,2023-06-14,June,Q2,Clothing,Jacket,Delhi,Delhi,5,38578.6,15.0,163959.05,Credit Card,Delivered,3.7
+ORD10566,2023-08-27,August,Q3,Sports,Football,Jaipur,Rajasthan,1,37866.03,26.0,28020.86,UPI,Returned,3.6
+ORD10567,2023-08-15,August,Q3,Grocery,Dal 1kg,Chennai,Tamil Nadu,3,15021.78,32.0,30644.43,Net Banking,Delivered,4.2
+ORD10568,2023-08-15,August,Q3,Clothing,Jacket,Mumbai,Maharashtra,5,49321.76,16.0,207151.39,UPI,Delivered,2.8
+ORD10569,2023-12-12,December,Q4,Beauty,Sunscreen,Mumbai,Maharashtra,1,35182.54,33.0,23572.3,UPI,Delivered,3.4
+ORD10570,2023-04-20,April,Q2,Sports,Dumbbells,Jaipur,Rajasthan,4,31279.45,28.0,90084.82,Net Banking,Cancelled,3.5
+ORD10571,2023-09-19,September,Q3,Sports,Football,Kolkata,West Bengal,2,9451.93,15.0,16068.28,Net Banking,Delivered,4.8
+ORD10572,2023-08-31,August,Q3,Books,Python Guide,Bangalore,Karnataka,1,3633.71,1.0,3597.37,Net Banking,Returned,4.3
+ORD10573,2023-03-28,March,Q1,Home & Kitchen,Mixer Grinder,Bangalore,Karnataka,4,43014.63,36.0,110117.45,Net Banking,Cancelled,4.2
+ORD10574,2023-12-04,December,Q4,Home & Kitchen,Curtains,Ahmedabad,Gujarat,4,27624.9,18.0,90609.67,Debit Card,Returned,3.4
+ORD10575,2023-02-13,February,Q1,Electronics,Tablet,Kolkata,West Bengal,2,35620.89,11.0,63405.18,Cash on Delivery,Delivered,4.8
+ORD10576,2023-05-26,May,Q2,Electronics,Smartphone,Jaipur,Rajasthan,4,35258.88,5.0,133983.74,Credit Card,Delivered,3.7
+ORD10577,2023-09-21,September,Q3,Books,UPSC Guide,Ahmedabad,Gujarat,1,26191.67,24.0,19905.67,Credit Card,Cancelled,3.1
+ORD10578,2023-12-06,December,Q4,Books,Children Book,Mumbai,Maharashtra,3,26774.91,0.0,80324.73,Net Banking,Cancelled,3.6
+ORD10579,2023-11-21,November,Q4,Beauty,Lipstick,Madurai,Tamil Nadu,3,14495.96,1.0,43053.0,UPI,Cancelled,4.8
+ORD10580,2023-11-14,November,Q4,Books,Data Science Book,Kolkata,West Bengal,5,8495.51,2.0,41628.0,Cash on Delivery,Delivered,5.0
+ORD10581,2023-06-21,June,Q2,Books,UPSC Guide,Delhi,Delhi,2,25304.53,34.0,33401.98,Debit Card,Cancelled,3.2
+ORD10582,2023-02-17,February,Q1,Books,Novel,Hyderabad,Telangana,1,37084.39,24.0,28184.14,Debit Card,Returned,4.8
+ORD10583,2023-05-01,May,Q2,Beauty,Shampoo,Hyderabad,Telangana,2,24271.68,32.0,33009.48,UPI,Delivered,4.7
+ORD10584,2023-12-11,December,Q4,Home & Kitchen,Water Bottle,Bangalore,Karnataka,4,37650.43,17.0,124999.43,Net Banking,Delivered,3.5
+ORD10585,2023-06-08,June,Q2,Sports,Badminton Set,Madurai,Tamil Nadu,1,32130.94,30.0,22491.66,Debit Card,Returned,2.8
+ORD10586,2023-04-26,April,Q2,Toys,RC Car,Hyderabad,Telangana,4,37320.22,30.0,104496.62,Net Banking,Returned,3.8
+ORD10587,2023-04-12,April,Q2,Grocery,Oil 1L,Bangalore,Karnataka,5,43520.37,0.0,217601.85,Net Banking,Returned,4.8
+ORD10588,2023-03-17,March,Q1,Beauty,Sunscreen,Mumbai,Maharashtra,1,45889.72,25.0,34417.29,Net Banking,Cancelled,4.9
+ORD10589,2023-01-13,January,Q1,Books,Novel,Hyderabad,Telangana,3,40125.7,10.0,108339.39,Net Banking,Delivered,4.0
+ORD10590,2023-01-24,January,Q1,Sports,Badminton Set,Madurai,Tamil Nadu,2,15697.83,0.0,31395.66,Credit Card,Delivered,2.5
+ORD10591,2023-05-06,May,Q2,Toys,LEGO Set,Ahmedabad,Gujarat,1,34290.7,14.0,29490.0,UPI,Delivered,4.3
+ORD10592,2023-09-01,September,Q3,Electronics,Smartphone,Jaipur,Rajasthan,1,2891.25,24.0,2197.35,Debit Card,Cancelled,4.7
+ORD10593,2023-11-09,November,Q4,Clothing,T-Shirt,Delhi,Delhi,5,6538.87,26.0,24193.82,Cash on Delivery,Delivered,4.7
+ORD10594,2023-02-07,February,Q1,Clothing,Jeans,Hyderabad,Telangana,3,23374.43,37.0,44177.67,UPI,Returned,4.1
+ORD10595,2023-08-22,August,Q3,Beauty,Perfume,Bangalore,Karnataka,1,13900.51,2.0,13622.5,Credit Card,Delivered,3.5
+ORD10596,2023-08-01,August,Q3,Books,Python Guide,Kolkata,West Bengal,1,24611.5,37.0,15505.25,Debit Card,Returned,4.0
+ORD10597,2023-11-19,November,Q4,Clothing,Jeans,Ahmedabad,Gujarat,4,10958.41,26.0,32436.89,UPI,Delivered,4.8
+ORD10598,2023-10-22,October,Q4,Electronics,Smartphone,Delhi,Delhi,5,36390.88,31.0,125548.54,Net Banking,Delivered,2.5
+ORD10599,2023-04-10,April,Q2,Electronics,Smartphone,Pune,Maharashtra,3,7622.79,13.0,19895.48,Credit Card,Cancelled,3.5
+ORD10600,2023-12-23,December,Q4,Grocery,Tea 250g,Pune,Maharashtra,4,42210.26,31.0,116500.32,Cash on Delivery,Delivered,4.5
+ORD10601,2023-07-16,July,Q3,Electronics,Smart Watch,Kolkata,West Bengal,1,28383.83,37.0,17881.81,UPI,Returned,3.4
+ORD10602,2023-09-11,September,Q3,Electronics,Smartphone,Madurai,Tamil Nadu,5,42674.44,14.0,183500.09,UPI,Delivered,4.6
+ORD10603,2023-07-24,July,Q3,Home & Kitchen,Water Bottle,Mumbai,Maharashtra,4,33053.67,12.0,116348.92,Credit Card,Delivered,3.5
+ORD10604,2023-05-05,May,Q2,Grocery,Rice 5kg,Kolkata,West Bengal,2,7040.15,8.0,12953.88,Cash on Delivery,Delivered,4.3
+ORD10605,2023-03-17,March,Q1,Grocery,Tea 250g,Delhi,Delhi,5,32188.21,20.0,128752.84,Net Banking,Delivered,4.9
+ORD10606,2023-12-02,December,Q4,Electronics,Headphones,Mumbai,Maharashtra,3,39399.54,2.0,115834.65,Cash on Delivery,Returned,2.8
+ORD10607,2023-12-19,December,Q4,Home & Kitchen,Water Bottle,Chennai,Tamil Nadu,1,1892.04,6.0,1778.52,Net Banking,Cancelled,4.1
+ORD10608,2023-01-03,January,Q1,Electronics,Laptop,Bangalore,Karnataka,1,8653.84,2.0,8480.76,Credit Card,Returned,3.3
+ORD10609,2023-02-24,February,Q1,Home & Kitchen,Water Bottle,Delhi,Delhi,1,5753.28,24.0,4372.49,Credit Card,Delivered,4.0
+ORD10610,2023-08-06,August,Q3,Toys,Doll,Pune,Maharashtra,3,6084.08,27.0,13324.14,UPI,Delivered,3.9
+ORD10611,2023-04-23,April,Q2,Electronics,Tablet,Bangalore,Karnataka,3,3207.93,11.0,8565.17,Debit Card,Delivered,4.4
+ORD10612,2023-04-01,April,Q2,Home & Kitchen,Curtains,Chennai,Tamil Nadu,5,2082.91,4.0,9997.97,Cash on Delivery,Returned,4.6
+ORD10613,2023-12-23,December,Q4,Home & Kitchen,Mixer Grinder,Kolkata,West Bengal,1,367.16,7.0,341.46,Cash on Delivery,Delivered,2.7
+ORD10614,2023-09-23,September,Q3,Toys,RC Car,Bangalore,Karnataka,2,7197.24,11.0,12811.09,Debit Card,Delivered,3.6
+ORD10615,2023-08-26,August,Q3,Electronics,Tablet,Bangalore,Karnataka,4,30621.89,4.0,117588.06,UPI,Delivered,4.6
+ORD10616,2023-01-26,January,Q1,Toys,LEGO Set,Ahmedabad,Gujarat,2,9635.55,39.0,11755.37,Cash on Delivery,Delivered,4.9
+ORD10617,2023-10-13,October,Q4,Sports,Dumbbells,Chennai,Tamil Nadu,3,2700.8,5.0,7697.28,Net Banking,Returned,2.9
+ORD10618,2023-05-08,May,Q2,Home & Kitchen,Pressure Cooker,Mumbai,Maharashtra,1,32260.8,11.0,28712.11,UPI,Cancelled,3.6
+ORD10619,2023-03-04,March,Q1,Grocery,Rice 5kg,Delhi,Delhi,1,46246.82,7.0,43009.54,Net Banking,Cancelled,4.5
+ORD10620,2023-08-22,August,Q3,Clothing,T-Shirt,Chennai,Tamil Nadu,4,29655.7,13.0,103201.84,UPI,Delivered,3.0
+ORD10621,2023-03-10,March,Q1,Clothing,Saree,Chennai,Tamil Nadu,1,11894.06,17.0,9872.07,Debit Card,Delivered,3.0
+ORD10622,2023-08-26,August,Q3,Grocery,Biscuits,Kolkata,West Bengal,1,44529.92,6.0,41858.12,Net Banking,Delivered,4.8
+ORD10623,2023-12-08,December,Q4,Toys,Doll,Bangalore,Karnataka,4,36005.07,25.0,108015.21,Debit Card,Delivered,4.9
+ORD10624,2023-09-29,September,Q3,Home & Kitchen,Mixer Grinder,Jaipur,Rajasthan,1,14066.18,4.0,13503.53,Net Banking,Delivered,3.7
+ORD10625,2023-10-14,October,Q4,Beauty,Shampoo,Hyderabad,Telangana,5,7881.57,32.0,26797.34,Debit Card,Cancelled,4.9
+ORD10626,2023-11-01,November,Q4,Sports,Cricket Bat,Pune,Maharashtra,5,24486.21,40.0,73458.63,Net Banking,Delivered,4.0
+ORD10627,2023-06-12,June,Q2,Electronics,Smart Watch,Chennai,Tamil Nadu,2,16398.43,23.0,25253.58,Cash on Delivery,Delivered,4.7
+ORD10628,2023-08-15,August,Q3,Electronics,Smart Watch,Mumbai,Maharashtra,1,49564.11,29.0,35190.52,Net Banking,Cancelled,3.8
+ORD10629,2023-11-10,November,Q4,Toys,RC Car,Delhi,Delhi,4,24789.49,3.0,96183.22,Net Banking,Delivered,4.4
+ORD10630,2023-09-16,September,Q3,Home & Kitchen,Bedsheet,Hyderabad,Telangana,2,32399.63,4.0,62207.29,UPI,Delivered,3.7
+ORD10631,2023-08-07,August,Q3,Grocery,Biscuits,Jaipur,Rajasthan,1,48822.22,19.0,39546.0,Net Banking,Delivered,2.8
+ORD10632,2023-10-08,October,Q4,Beauty,Lipstick,Mumbai,Maharashtra,1,19274.72,28.0,13877.8,UPI,Returned,3.8
+ORD10633,2023-08-17,August,Q3,Books,Children Book,Ahmedabad,Gujarat,5,39734.21,32.0,135096.31,UPI,Delivered,2.7
+ORD10634,2023-03-23,March,Q1,Beauty,Face Cream,Delhi,Delhi,4,18311.26,25.0,54933.78,Debit Card,Cancelled,3.4
+ORD10635,2023-09-01,September,Q3,Clothing,Jacket,Chennai,Tamil Nadu,2,49063.52,10.0,88314.34,Net Banking,Cancelled,2.8
+ORD10636,2023-08-19,August,Q3,Sports,Football,Madurai,Tamil Nadu,3,44901.76,20.0,107764.22,Credit Card,Delivered,3.6
+ORD10637,2023-05-13,May,Q2,Beauty,Perfume,Kolkata,West Bengal,4,25097.43,33.0,67261.11,Cash on Delivery,Cancelled,3.7
+ORD10638,2023-05-07,May,Q2,Books,UPSC Guide,Jaipur,Rajasthan,3,40005.2,38.0,74409.67,Credit Card,Delivered,4.5
+ORD10639,2023-11-23,November,Q4,Grocery,Rice 5kg,Delhi,Delhi,4,44902.4,12.0,158056.45,Credit Card,Delivered,4.9
+ORD10640,2023-05-22,May,Q2,Books,Data Science Book,Bangalore,Karnataka,4,7567.38,8.0,27847.96,Credit Card,Delivered,4.9
+ORD10641,2023-09-24,September,Q3,Toys,Puzzle,Bangalore,Karnataka,4,17367.68,18.0,56965.99,UPI,Delivered,4.1
+ORD10642,2023-09-06,September,Q3,Clothing,T-Shirt,Chennai,Tamil Nadu,5,32251.37,16.0,135455.75,UPI,Returned,3.4
+ORD10643,2023-11-17,November,Q4,Grocery,Tea 250g,Hyderabad,Telangana,5,6641.11,32.0,22579.77,UPI,Delivered,2.9
+ORD10644,2023-05-03,May,Q2,Grocery,Oil 1L,Hyderabad,Telangana,1,7459.5,11.0,6638.95,Cash on Delivery,Delivered,4.9
+ORD10645,2023-05-21,May,Q2,Books,Python Guide,Bangalore,Karnataka,2,8104.67,5.0,15398.87,Cash on Delivery,Delivered,5.0
+ORD10646,2023-08-14,August,Q3,Grocery,Oil 1L,Madurai,Tamil Nadu,2,10297.51,28.0,14828.41,UPI,Delivered,4.2
+ORD10647,2023-02-09,February,Q1,Beauty,Lipstick,Ahmedabad,Gujarat,2,26705.47,5.0,50740.39,Net Banking,Delivered,2.6
+ORD10648,2023-05-27,May,Q2,Grocery,Oil 1L,Bangalore,Karnataka,1,48509.0,22.0,37837.02,UPI,Returned,3.8
+ORD10649,2023-05-01,May,Q2,Books,Children Book,Bangalore,Karnataka,5,36440.76,37.0,114788.39,Credit Card,Returned,3.3
+ORD10650,2023-05-20,May,Q2,Electronics,Laptop,Ahmedabad,Gujarat,1,15438.71,16.0,12968.52,Net Banking,Delivered,4.6
+ORD10651,2023-06-21,June,Q2,Clothing,Saree,Mumbai,Maharashtra,5,32083.57,23.0,123521.74,UPI,Delivered,3.1
+ORD10652,2023-06-13,June,Q2,Electronics,Smartphone,Ahmedabad,Gujarat,4,33869.32,38.0,83995.91,Net Banking,Delivered,4.9
+ORD10653,2023-10-04,October,Q4,Grocery,Oil 1L,Jaipur,Rajasthan,5,25602.21,2.0,125450.83,Net Banking,Delivered,4.2
+ORD10654,2023-02-11,February,Q1,Toys,Doll,Pune,Maharashtra,3,658.93,14.0,1700.04,Net Banking,Cancelled,3.3
+ORD10655,2023-03-12,March,Q1,Clothing,Jeans,Kolkata,West Bengal,4,40194.09,12.0,141483.2,Net Banking,Returned,4.5
+ORD10656,2023-03-19,March,Q1,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,1,7224.78,12.0,6357.81,Cash on Delivery,Delivered,5.0
+ORD10657,2023-04-29,April,Q2,Clothing,Jacket,Pune,Maharashtra,1,380.61,26.0,281.65,Debit Card,Cancelled,3.2
+ORD10658,2023-07-16,July,Q3,Grocery,Biscuits,Bangalore,Karnataka,2,9341.02,15.0,15879.73,Credit Card,Delivered,3.9
+ORD10659,2023-12-22,December,Q4,Books,UPSC Guide,Ahmedabad,Gujarat,4,11264.79,32.0,30640.23,UPI,Returned,2.9
+ORD10660,2023-03-20,March,Q1,Clothing,Saree,Pune,Maharashtra,2,24619.73,28.0,35452.41,Credit Card,Delivered,3.1
+ORD10661,2023-12-28,December,Q4,Grocery,Rice 5kg,Jaipur,Rajasthan,3,29074.24,23.0,67161.49,Net Banking,Delivered,4.7
+ORD10662,2023-04-20,April,Q2,Beauty,Sunscreen,Jaipur,Rajasthan,1,42271.74,7.0,39312.72,UPI,Returned,2.6
+ORD10663,2023-02-02,February,Q1,Home & Kitchen,Bedsheet,Bangalore,Karnataka,1,13669.88,17.0,11346.0,UPI,Delivered,4.8
+ORD10664,2023-08-01,August,Q3,Books,Novel,Ahmedabad,Gujarat,1,25717.63,31.0,17745.16,Credit Card,Cancelled,3.0
+ORD10665,2023-07-28,July,Q3,Home & Kitchen,Water Bottle,Madurai,Tamil Nadu,3,41349.76,27.0,90555.97,UPI,Delivered,3.3
+ORD10666,2023-06-19,June,Q2,Beauty,Shampoo,Mumbai,Maharashtra,2,25932.63,15.0,44085.47,UPI,Delivered,3.7
+ORD10667,2023-10-05,October,Q4,Clothing,Jeans,Bangalore,Karnataka,5,11094.62,8.0,51035.25,Cash on Delivery,Cancelled,4.7
+ORD10668,2023-08-27,August,Q3,Clothing,Kurta,Kolkata,West Bengal,1,5872.45,5.0,5578.83,UPI,Delivered,2.5
+ORD10669,2023-08-01,August,Q3,Beauty,Shampoo,Kolkata,West Bengal,5,26179.9,39.0,79848.7,UPI,Delivered,2.9
+ORD10670,2023-02-01,February,Q1,Clothing,Jeans,Bangalore,Karnataka,2,34417.96,12.0,60575.61,Credit Card,Returned,3.0
+ORD10671,2023-04-16,April,Q2,Clothing,T-Shirt,Mumbai,Maharashtra,4,37878.84,2.0,148485.05,Cash on Delivery,Cancelled,2.8
+ORD10672,2023-08-04,August,Q3,Electronics,Smart Watch,Delhi,Delhi,3,2211.91,12.0,5839.44,Credit Card,Delivered,2.5
+ORD10673,2023-07-19,July,Q3,Sports,Badminton Set,Chennai,Tamil Nadu,2,33546.5,1.0,66422.07,UPI,Cancelled,2.9
+ORD10674,2023-10-27,October,Q4,Beauty,Perfume,Bangalore,Karnataka,5,39051.07,25.0,146441.51,Credit Card,Delivered,3.8
+ORD10675,2023-12-23,December,Q4,Electronics,Tablet,Chennai,Tamil Nadu,2,48214.98,7.0,89679.86,Credit Card,Delivered,4.4
+ORD10676,2023-01-11,January,Q1,Sports,Badminton Set,Kolkata,West Bengal,3,34921.74,7.0,97431.65,Credit Card,Delivered,4.2
+ORD10677,2023-10-22,October,Q4,Beauty,Lipstick,Pune,Maharashtra,2,25736.84,16.0,43237.89,UPI,Delivered,4.4
+ORD10678,2023-07-14,July,Q3,Grocery,Rice 5kg,Ahmedabad,Gujarat,2,24816.01,14.0,42683.54,Credit Card,Delivered,3.2
+ORD10679,2023-09-02,September,Q3,Beauty,Lipstick,Delhi,Delhi,4,14216.39,24.0,43217.83,Net Banking,Delivered,3.3
+ORD10680,2023-01-04,January,Q1,Toys,Doll,Pune,Maharashtra,2,42845.85,36.0,54842.69,UPI,Delivered,4.5
+ORD10681,2023-06-30,June,Q2,Electronics,Smart Watch,Delhi,Delhi,4,21931.01,26.0,64915.79,Debit Card,Returned,2.7
+ORD10682,2023-06-02,June,Q2,Toys,Puzzle,Delhi,Delhi,2,3282.29,39.0,4004.39,Cash on Delivery,Returned,3.3
+ORD10683,2023-07-19,July,Q3,Clothing,Jeans,Pune,Maharashtra,4,13961.99,29.0,39652.05,UPI,Returned,4.0
+ORD10684,2023-08-03,August,Q3,Beauty,Lipstick,Jaipur,Rajasthan,4,49376.78,20.0,158005.7,Net Banking,Delivered,2.9
+ORD10685,2023-10-03,October,Q4,Clothing,Saree,Kolkata,West Bengal,4,11579.55,38.0,28717.28,Credit Card,Delivered,2.6
+ORD10686,2023-10-07,October,Q4,Grocery,Rice 5kg,Bangalore,Karnataka,4,30248.97,13.0,105266.42,Cash on Delivery,Delivered,3.3
+ORD10687,2023-11-05,November,Q4,Clothing,Jacket,Kolkata,West Bengal,4,10136.49,26.0,30004.01,UPI,Cancelled,3.7
+ORD10688,2023-04-23,April,Q2,Beauty,Sunscreen,Ahmedabad,Gujarat,1,47631.4,1.0,47155.09,Credit Card,Returned,3.6
+ORD10689,2023-09-07,September,Q3,Grocery,Oil 1L,Pune,Maharashtra,4,23009.83,1.0,91118.93,UPI,Delivered,3.9
+ORD10690,2023-04-23,April,Q2,Grocery,Tea 250g,Bangalore,Karnataka,3,35800.37,19.0,86994.9,Net Banking,Cancelled,2.8
+ORD10691,2023-05-20,May,Q2,Grocery,Tea 250g,Ahmedabad,Gujarat,2,25358.92,16.0,42602.99,Net Banking,Cancelled,3.7
+ORD10692,2023-08-12,August,Q3,Beauty,Perfume,Madurai,Tamil Nadu,1,1455.94,2.0,1426.82,UPI,Cancelled,4.6
+ORD10693,2023-09-06,September,Q3,Electronics,Headphones,Pune,Maharashtra,1,21436.0,40.0,12861.6,Credit Card,Delivered,3.5
+ORD10694,2023-01-15,January,Q1,Sports,Football,Hyderabad,Telangana,5,4292.84,28.0,15454.22,Credit Card,Delivered,4.7
+ORD10695,2023-07-19,July,Q3,Home & Kitchen,Mixer Grinder,Ahmedabad,Gujarat,3,1917.01,26.0,4255.76,Cash on Delivery,Returned,3.6
+ORD10696,2023-06-22,June,Q2,Books,Data Science Book,Kolkata,West Bengal,5,1160.71,13.0,5049.09,UPI,Cancelled,3.9
+ORD10697,2023-12-09,December,Q4,Clothing,Kurta,Delhi,Delhi,2,16831.57,20.0,26930.51,UPI,Delivered,4.4
+ORD10698,2023-12-14,December,Q4,Books,Novel,Pune,Maharashtra,2,24872.74,34.0,32832.02,Cash on Delivery,Delivered,4.5
+ORD10699,2023-07-27,July,Q3,Books,Novel,Mumbai,Maharashtra,3,49811.57,16.0,125525.16,Credit Card,Cancelled,3.1
+ORD10700,2023-03-26,March,Q1,Clothing,Jacket,Madurai,Tamil Nadu,3,3410.13,32.0,6956.67,Debit Card,Delivered,3.7
+ORD10701,2023-08-28,August,Q3,Clothing,Saree,Ahmedabad,Gujarat,3,21673.88,22.0,50716.88,Net Banking,Delivered,3.0
+ORD10702,2023-03-07,March,Q1,Grocery,Biscuits,Bangalore,Karnataka,1,31410.8,21.0,24814.53,Net Banking,Delivered,3.0
+ORD10703,2023-11-15,November,Q4,Grocery,Oil 1L,Ahmedabad,Gujarat,5,42646.09,36.0,136467.49,Credit Card,Cancelled,4.8
+ORD10704,2023-10-01,October,Q4,Sports,Yoga Mat,Kolkata,West Bengal,2,12056.68,30.0,16879.35,Net Banking,Returned,4.4
+ORD10705,2023-01-14,January,Q1,Beauty,Face Cream,Chennai,Tamil Nadu,4,13383.39,11.0,47644.87,Cash on Delivery,Delivered,2.9
+ORD10706,2023-07-21,July,Q3,Toys,Board Game,Delhi,Delhi,2,9636.2,10.0,17345.16,Net Banking,Returned,4.6
+ORD10707,2023-10-31,October,Q4,Toys,RC Car,Mumbai,Maharashtra,2,8009.96,5.0,15218.92,UPI,Cancelled,3.1
+ORD10708,2023-10-16,October,Q4,Home & Kitchen,Mixer Grinder,Kolkata,West Bengal,1,2813.6,36.0,1800.7,UPI,Delivered,3.3
+ORD10709,2023-12-06,December,Q4,Toys,Doll,Delhi,Delhi,4,47160.95,29.0,133937.1,Credit Card,Cancelled,2.9
+ORD10710,2023-01-14,January,Q1,Clothing,Jacket,Jaipur,Rajasthan,5,12627.81,35.0,41040.38,Credit Card,Delivered,3.1
+ORD10711,2023-02-12,February,Q1,Beauty,Sunscreen,Pune,Maharashtra,2,46778.23,9.0,85136.38,Debit Card,Delivered,2.8
+ORD10712,2023-11-26,November,Q4,Grocery,Tea 250g,Hyderabad,Telangana,5,2843.47,21.0,11231.71,Credit Card,Delivered,4.2
+ORD10713,2023-08-08,August,Q3,Toys,RC Car,Chennai,Tamil Nadu,3,43977.71,37.0,83117.87,UPI,Delivered,3.4
+ORD10714,2023-03-11,March,Q1,Electronics,Tablet,Mumbai,Maharashtra,1,34549.59,32.0,23493.72,Cash on Delivery,Returned,3.1
+ORD10715,2023-08-25,August,Q3,Books,Novel,Delhi,Delhi,5,43354.3,34.0,143069.19,Net Banking,Delivered,3.5
+ORD10716,2023-04-04,April,Q2,Books,Data Science Book,Chennai,Tamil Nadu,3,10558.81,36.0,20272.92,UPI,Returned,4.8
+ORD10717,2023-01-26,January,Q1,Electronics,Headphones,Delhi,Delhi,4,23581.01,17.0,78288.95,Net Banking,Delivered,4.6
+ORD10718,2023-05-14,May,Q2,Home & Kitchen,Bedsheet,Ahmedabad,Gujarat,1,17625.22,24.0,13395.17,UPI,Returned,4.5
+ORD10719,2023-07-14,July,Q3,Electronics,Smartphone,Bangalore,Karnataka,4,39561.41,5.0,150333.36,UPI,Delivered,3.5
+ORD10720,2023-06-17,June,Q2,Clothing,T-Shirt,Bangalore,Karnataka,2,25842.48,39.0,31527.83,Debit Card,Cancelled,4.6
+ORD10721,2023-04-19,April,Q2,Toys,Doll,Kolkata,West Bengal,4,43681.62,5.0,165990.16,Cash on Delivery,Delivered,2.9
+ORD10722,2023-08-21,August,Q3,Books,Python Guide,Delhi,Delhi,4,18411.6,16.0,61862.98,Cash on Delivery,Delivered,3.4
+ORD10723,2023-06-17,June,Q2,Electronics,Smartphone,Ahmedabad,Gujarat,5,31350.04,36.0,100320.13,Debit Card,Delivered,4.9
+ORD10724,2023-06-22,June,Q2,Home & Kitchen,Mixer Grinder,Pune,Maharashtra,5,21473.72,10.0,96631.74,UPI,Delivered,2.7
+ORD10725,2023-07-14,July,Q3,Clothing,T-Shirt,Ahmedabad,Gujarat,4,38679.3,37.0,97471.84,Net Banking,Delivered,4.6
+ORD10726,2023-05-23,May,Q2,Sports,Football,Chennai,Tamil Nadu,3,14433.7,20.0,34640.88,Debit Card,Cancelled,2.8
+ORD10727,2023-08-04,August,Q3,Sports,Yoga Mat,Chennai,Tamil Nadu,4,9059.48,32.0,24641.79,UPI,Delivered,2.6
+ORD10728,2023-05-10,May,Q2,Grocery,Dal 1kg,Madurai,Tamil Nadu,5,34229.14,18.0,140339.47,Debit Card,Delivered,2.5
+ORD10729,2023-02-11,February,Q1,Toys,Board Game,Pune,Maharashtra,4,36818.4,10.0,132546.24,Credit Card,Delivered,2.7
+ORD10730,2023-08-29,August,Q3,Beauty,Shampoo,Kolkata,West Bengal,3,49837.13,38.0,92697.06,Cash on Delivery,Delivered,4.9
+ORD10731,2023-01-10,January,Q1,Electronics,Headphones,Ahmedabad,Gujarat,5,19077.84,39.0,58187.41,Debit Card,Cancelled,4.2
+ORD10732,2023-10-04,October,Q4,Electronics,Tablet,Bangalore,Karnataka,3,8534.83,20.0,20483.59,Net Banking,Delivered,3.3
+ORD10733,2023-01-27,January,Q1,Clothing,Saree,Ahmedabad,Gujarat,4,7132.7,5.0,27104.26,Debit Card,Returned,2.6
+ORD10734,2023-06-29,June,Q2,Books,Novel,Pune,Maharashtra,3,45144.49,11.0,120535.79,UPI,Cancelled,4.6
+ORD10735,2023-04-25,April,Q2,Beauty,Lipstick,Bangalore,Karnataka,3,36856.62,20.0,88455.89,Cash on Delivery,Returned,4.9
+ORD10736,2023-11-29,November,Q4,Electronics,Laptop,Bangalore,Karnataka,1,11531.53,1.0,11416.21,Net Banking,Returned,3.2
+ORD10737,2023-02-05,February,Q1,Clothing,Kurta,Mumbai,Maharashtra,4,17858.18,28.0,51431.56,Net Banking,Delivered,3.7
+ORD10738,2023-11-30,November,Q4,Home & Kitchen,Mixer Grinder,Madurai,Tamil Nadu,1,10226.5,11.0,9101.59,Cash on Delivery,Delivered,4.6
+ORD10739,2023-01-21,January,Q1,Sports,Badminton Set,Mumbai,Maharashtra,5,38354.04,7.0,178346.29,Debit Card,Returned,4.8
+ORD10740,2023-01-16,January,Q1,Clothing,Saree,Mumbai,Maharashtra,3,34081.55,27.0,74638.59,Cash on Delivery,Delivered,3.5
+ORD10741,2023-05-07,May,Q2,Beauty,Shampoo,Mumbai,Maharashtra,1,23038.65,28.0,16587.83,UPI,Cancelled,3.7
+ORD10742,2023-04-13,April,Q2,Electronics,Headphones,Mumbai,Maharashtra,5,47547.25,13.0,206830.54,Cash on Delivery,Delivered,4.3
+ORD10743,2023-01-11,January,Q1,Sports,Cricket Bat,Hyderabad,Telangana,3,39917.44,30.0,83826.62,Cash on Delivery,Returned,3.9
+ORD10744,2023-11-15,November,Q4,Clothing,Kurta,Hyderabad,Telangana,2,12042.0,31.0,16617.96,Credit Card,Delivered,3.5
+ORD10745,2023-03-20,March,Q1,Home & Kitchen,Curtains,Pune,Maharashtra,3,32376.04,38.0,60219.43,UPI,Returned,2.9
+ORD10746,2023-05-03,May,Q2,Toys,Doll,Jaipur,Rajasthan,2,17984.26,4.0,34529.78,Debit Card,Returned,3.4
+ORD10747,2023-03-06,March,Q1,Grocery,Tea 250g,Kolkata,West Bengal,3,28174.7,17.0,70155.0,UPI,Cancelled,4.4
+ORD10748,2023-08-31,August,Q3,Home & Kitchen,Curtains,Pune,Maharashtra,1,2069.88,14.0,1780.1,Debit Card,Delivered,3.7
+ORD10749,2023-12-09,December,Q4,Grocery,Biscuits,Ahmedabad,Gujarat,1,14570.62,17.0,12093.61,Net Banking,Delivered,4.8
+ORD10750,2023-02-28,February,Q1,Home & Kitchen,Pressure Cooker,Hyderabad,Telangana,2,26178.45,12.0,46074.07,Credit Card,Delivered,2.6
+ORD10751,2023-10-16,October,Q4,Clothing,Jacket,Pune,Maharashtra,4,4769.49,26.0,14117.69,UPI,Delivered,3.9
+ORD10752,2023-04-22,April,Q2,Books,Children Book,Delhi,Delhi,5,862.62,30.0,3019.17,Debit Card,Returned,3.7
+ORD10753,2023-08-27,August,Q3,Electronics,Smartphone,Pune,Maharashtra,3,15731.62,29.0,33508.35,Net Banking,Cancelled,4.4
+ORD10754,2023-12-25,December,Q4,Books,Novel,Bangalore,Karnataka,2,9295.12,30.0,13013.17,Credit Card,Returned,4.0
+ORD10755,2023-05-12,May,Q2,Electronics,Smartphone,Pune,Maharashtra,1,714.56,26.0,528.77,Net Banking,Cancelled,3.7
+ORD10756,2023-07-08,July,Q3,Grocery,Oil 1L,Jaipur,Rajasthan,5,18068.4,27.0,65949.66,Net Banking,Delivered,4.2
+ORD10757,2023-03-27,March,Q1,Clothing,Jeans,Bangalore,Karnataka,1,9580.56,33.0,6418.98,Debit Card,Delivered,4.2
+ORD10758,2023-11-07,November,Q4,Sports,Dumbbells,Bangalore,Karnataka,2,21817.63,25.0,32726.44,Debit Card,Delivered,4.5
+ORD10759,2023-11-07,November,Q4,Books,UPSC Guide,Bangalore,Karnataka,4,21122.87,5.0,80266.91,Net Banking,Returned,4.8
+ORD10760,2023-02-28,February,Q1,Grocery,Rice 5kg,Kolkata,West Bengal,5,12169.35,12.0,53545.14,Net Banking,Delivered,4.6
+ORD10761,2023-03-25,March,Q1,Beauty,Face Cream,Delhi,Delhi,4,48975.37,34.0,129294.98,Cash on Delivery,Cancelled,4.3
+ORD10762,2023-06-09,June,Q2,Books,Data Science Book,Kolkata,West Bengal,4,24330.74,24.0,73965.45,Net Banking,Delivered,4.0
+ORD10763,2023-02-25,February,Q1,Electronics,Tablet,Mumbai,Maharashtra,4,28841.35,22.0,89985.01,Net Banking,Returned,3.2
+ORD10764,2023-10-24,October,Q4,Clothing,Kurta,Jaipur,Rajasthan,3,22443.85,17.0,55885.19,Debit Card,Returned,2.9
+ORD10765,2023-01-14,January,Q1,Beauty,Lipstick,Chennai,Tamil Nadu,5,11024.13,36.0,35277.22,Cash on Delivery,Returned,3.3
+ORD10766,2023-06-09,June,Q2,Home & Kitchen,Bedsheet,Pune,Maharashtra,4,41662.38,27.0,121654.15,Net Banking,Delivered,4.3
+ORD10767,2023-10-22,October,Q4,Sports,Yoga Mat,Delhi,Delhi,4,6498.37,8.0,23914.0,Credit Card,Returned,4.0
+ORD10768,2023-12-13,December,Q4,Grocery,Oil 1L,Chennai,Tamil Nadu,2,27863.68,40.0,33436.42,UPI,Delivered,3.4
+ORD10769,2023-07-12,July,Q3,Home & Kitchen,Pressure Cooker,Ahmedabad,Gujarat,1,40350.44,14.0,34701.38,Debit Card,Delivered,2.8
+ORD10770,2023-07-23,July,Q3,Sports,Dumbbells,Hyderabad,Telangana,3,39255.05,31.0,81257.95,Cash on Delivery,Delivered,4.4
+ORD10771,2023-04-12,April,Q2,Home & Kitchen,Water Bottle,Jaipur,Rajasthan,1,35334.93,37.0,22261.01,Net Banking,Delivered,3.6
+ORD10772,2023-02-08,February,Q1,Clothing,Jacket,Jaipur,Rajasthan,1,41189.33,2.0,40365.54,Credit Card,Delivered,2.8
+ORD10773,2023-10-31,October,Q4,Beauty,Shampoo,Hyderabad,Telangana,4,38110.14,20.0,121952.45,Debit Card,Delivered,4.7
+ORD10774,2023-12-20,December,Q4,Beauty,Shampoo,Delhi,Delhi,2,21983.47,17.0,36492.56,Debit Card,Returned,4.4
+ORD10775,2023-11-18,November,Q4,Beauty,Perfume,Ahmedabad,Gujarat,2,4307.43,15.0,7322.63,UPI,Delivered,4.4
+ORD10776,2023-05-05,May,Q2,Home & Kitchen,Water Bottle,Pune,Maharashtra,2,6942.82,17.0,11525.08,Net Banking,Cancelled,4.8
+ORD10777,2023-02-22,February,Q1,Beauty,Face Cream,Kolkata,West Bengal,2,38519.09,29.0,54697.11,Credit Card,Delivered,3.8
+ORD10778,2023-12-23,December,Q4,Beauty,Perfume,Pune,Maharashtra,2,21731.91,16.0,36509.61,Debit Card,Cancelled,2.6
+ORD10779,2023-06-04,June,Q2,Electronics,Tablet,Hyderabad,Telangana,4,20130.04,27.0,58779.72,UPI,Delivered,3.9
+ORD10780,2023-12-17,December,Q4,Beauty,Face Cream,Hyderabad,Telangana,5,30539.53,6.0,143535.79,Debit Card,Cancelled,3.5
+ORD10781,2023-11-04,November,Q4,Grocery,Oil 1L,Pune,Maharashtra,2,44054.69,3.0,85466.1,Net Banking,Delivered,3.8
+ORD10782,2023-03-03,March,Q1,Books,Python Guide,Delhi,Delhi,5,27611.7,21.0,109066.22,Debit Card,Delivered,4.4
+ORD10783,2023-10-17,October,Q4,Electronics,Tablet,Jaipur,Rajasthan,3,12104.92,31.0,25057.18,Cash on Delivery,Delivered,4.3
+ORD10784,2023-01-22,January,Q1,Electronics,Headphones,Hyderabad,Telangana,5,17755.94,2.0,87004.11,Credit Card,Returned,4.1
+ORD10785,2023-06-27,June,Q2,Books,Children Book,Mumbai,Maharashtra,4,16982.07,9.0,61814.73,Cash on Delivery,Cancelled,4.4
+ORD10786,2023-09-30,September,Q3,Sports,Yoga Mat,Hyderabad,Telangana,3,33362.77,33.0,67059.17,Debit Card,Returned,3.9
+ORD10787,2023-08-08,August,Q3,Sports,Cricket Bat,Madurai,Tamil Nadu,5,29139.33,33.0,97616.76,Credit Card,Delivered,3.4
+ORD10788,2023-12-05,December,Q4,Toys,RC Car,Delhi,Delhi,1,3156.57,36.0,2020.2,Net Banking,Delivered,3.7
+ORD10789,2023-07-09,July,Q3,Beauty,Sunscreen,Pune,Maharashtra,5,27970.47,31.0,96498.12,Cash on Delivery,Returned,4.7
+ORD10790,2023-02-05,February,Q1,Toys,RC Car,Kolkata,West Bengal,4,41199.4,6.0,154909.74,Net Banking,Delivered,2.8
+ORD10791,2023-09-17,September,Q3,Clothing,Jeans,Kolkata,West Bengal,4,1678.74,6.0,6312.06,Credit Card,Cancelled,3.9
+ORD10792,2023-11-28,November,Q4,Toys,LEGO Set,Delhi,Delhi,3,28609.65,2.0,84112.37,UPI,Delivered,2.9
+ORD10793,2023-06-24,June,Q2,Beauty,Perfume,Hyderabad,Telangana,4,1447.49,6.0,5442.56,Net Banking,Delivered,4.5
+ORD10794,2023-01-07,January,Q1,Books,Novel,Chennai,Tamil Nadu,2,40965.3,20.0,65544.48,UPI,Delivered,2.8
+ORD10795,2023-08-04,August,Q3,Electronics,Smart Watch,Kolkata,West Bengal,5,15519.61,18.0,63630.4,Net Banking,Returned,3.3
+ORD10796,2023-09-08,September,Q3,Home & Kitchen,Pressure Cooker,Ahmedabad,Gujarat,4,38095.86,27.0,111239.91,UPI,Delivered,2.9
+ORD10797,2023-02-24,February,Q1,Toys,RC Car,Chennai,Tamil Nadu,4,16982.94,2.0,66573.12,Net Banking,Delivered,4.2
+ORD10798,2023-08-10,August,Q3,Clothing,Jeans,Mumbai,Maharashtra,5,31523.96,31.0,108757.66,Credit Card,Cancelled,3.3
+ORD10799,2023-07-05,July,Q3,Clothing,Jeans,Jaipur,Rajasthan,5,28863.94,2.0,141433.31,Debit Card,Returned,3.9
+ORD10800,2023-11-22,November,Q4,Electronics,Smartphone,Ahmedabad,Gujarat,2,48120.72,11.0,85654.88,Cash on Delivery,Returned,3.0
+ORD10801,2023-08-24,August,Q3,Clothing,Jacket,Jaipur,Rajasthan,3,20119.8,2.0,59152.21,Credit Card,Delivered,4.7
+ORD10802,2023-12-29,December,Q4,Toys,Board Game,Pune,Maharashtra,1,42989.44,13.0,37400.81,Credit Card,Delivered,3.1
+ORD10803,2023-03-20,March,Q1,Home & Kitchen,Bedsheet,Bangalore,Karnataka,2,12814.95,4.0,24604.7,Net Banking,Delivered,3.3
+ORD10804,2023-08-11,August,Q3,Electronics,Tablet,Madurai,Tamil Nadu,2,1407.2,2.0,2758.11,UPI,Delivered,3.5
+ORD10805,2023-04-01,April,Q2,Toys,Doll,Hyderabad,Telangana,4,47081.8,36.0,120529.41,Debit Card,Cancelled,2.6
+ORD10806,2023-09-25,September,Q3,Sports,Dumbbells,Ahmedabad,Gujarat,5,19283.18,5.0,91595.11,Net Banking,Cancelled,2.7
+ORD10807,2023-11-30,November,Q4,Toys,LEGO Set,Kolkata,West Bengal,1,20404.31,9.0,18567.92,UPI,Cancelled,4.7
+ORD10808,2023-05-19,May,Q2,Clothing,Jeans,Ahmedabad,Gujarat,2,15265.41,16.0,25645.89,Cash on Delivery,Delivered,2.7
+ORD10809,2023-11-12,November,Q4,Home & Kitchen,Bedsheet,Ahmedabad,Gujarat,2,39112.08,22.0,61014.84,Cash on Delivery,Returned,3.6
+ORD10810,2023-10-03,October,Q4,Electronics,Smartphone,Kolkata,West Bengal,5,14498.01,39.0,44218.93,Net Banking,Delivered,2.5
+ORD10811,2023-09-05,September,Q3,Books,UPSC Guide,Madurai,Tamil Nadu,2,29278.7,20.0,46845.92,Cash on Delivery,Cancelled,2.6
+ORD10812,2023-08-27,August,Q3,Clothing,Saree,Delhi,Delhi,4,34936.54,33.0,93629.93,UPI,Returned,4.3
+ORD10813,2023-08-12,August,Q3,Sports,Badminton Set,Ahmedabad,Gujarat,3,44202.38,38.0,82216.43,Net Banking,Delivered,4.1
+ORD10814,2023-10-31,October,Q4,Sports,Yoga Mat,Madurai,Tamil Nadu,2,23016.98,24.0,34985.81,Debit Card,Delivered,2.5
+ORD10815,2023-05-18,May,Q2,Grocery,Rice 5kg,Mumbai,Maharashtra,2,20687.49,36.0,26479.99,Net Banking,Cancelled,4.3
+ORD10816,2023-06-15,June,Q2,Clothing,T-Shirt,Ahmedabad,Gujarat,1,44633.98,33.0,29904.77,Credit Card,Delivered,3.6
+ORD10817,2023-05-06,May,Q2,Toys,Puzzle,Madurai,Tamil Nadu,4,8900.47,31.0,24565.3,Credit Card,Delivered,4.2
+ORD10818,2023-02-14,February,Q1,Grocery,Oil 1L,Chennai,Tamil Nadu,4,517.7,30.0,1449.56,UPI,Delivered,4.4
+ORD10819,2023-05-23,May,Q2,Clothing,Jacket,Hyderabad,Telangana,2,11751.18,20.0,18801.89,UPI,Returned,3.4
+ORD10820,2023-08-19,August,Q3,Sports,Cricket Bat,Chennai,Tamil Nadu,4,5591.78,11.0,19906.74,Debit Card,Cancelled,3.8
+ORD10821,2023-05-05,May,Q2,Sports,Badminton Set,Jaipur,Rajasthan,5,8817.67,24.0,33507.15,Debit Card,Delivered,4.4
+ORD10822,2023-08-26,August,Q3,Sports,Badminton Set,Hyderabad,Telangana,2,42390.98,1.0,83934.14,Cash on Delivery,Cancelled,4.9
+ORD10823,2023-10-19,October,Q4,Books,Children Book,Kolkata,West Bengal,1,46897.62,26.0,34704.24,Credit Card,Delivered,4.9
+ORD10824,2023-11-09,November,Q4,Toys,RC Car,Hyderabad,Telangana,1,34024.67,19.0,27559.98,Credit Card,Delivered,3.4
+ORD10825,2023-12-09,December,Q4,Electronics,Headphones,Pune,Maharashtra,5,22470.63,0.0,112353.15,Credit Card,Cancelled,3.0
+ORD10826,2023-07-14,July,Q3,Electronics,Laptop,Pune,Maharashtra,1,45853.91,8.0,42185.6,Credit Card,Delivered,3.3
+ORD10827,2023-06-22,June,Q2,Electronics,Smart Watch,Pune,Maharashtra,1,29646.91,25.0,22235.18,UPI,Delivered,3.3
+ORD10828,2023-01-15,January,Q1,Clothing,Kurta,Chennai,Tamil Nadu,3,41634.25,33.0,83684.84,Debit Card,Delivered,3.8
+ORD10829,2023-09-11,September,Q3,Grocery,Rice 5kg,Kolkata,West Bengal,5,6285.08,39.0,19169.49,Net Banking,Delivered,4.8
+ORD10830,2023-06-16,June,Q2,Clothing,Jeans,Mumbai,Maharashtra,4,2786.7,24.0,8471.57,Credit Card,Delivered,3.6
+ORD10831,2023-04-04,April,Q2,Electronics,Headphones,Pune,Maharashtra,4,4836.72,30.0,13542.82,Cash on Delivery,Cancelled,3.1
+ORD10832,2023-09-07,September,Q3,Electronics,Smart Watch,Pune,Maharashtra,4,39768.48,35.0,103398.05,UPI,Delivered,4.0
+ORD10833,2023-04-19,April,Q2,Grocery,Biscuits,Madurai,Tamil Nadu,5,9664.44,4.0,46389.31,Credit Card,Cancelled,4.0
+ORD10834,2023-07-01,July,Q3,Sports,Badminton Set,Bangalore,Karnataka,5,12851.49,17.0,53333.68,Net Banking,Delivered,4.3
+ORD10835,2023-05-13,May,Q2,Sports,Football,Mumbai,Maharashtra,1,6427.65,23.0,4949.29,UPI,Delivered,3.8
+ORD10836,2023-06-24,June,Q2,Home & Kitchen,Pressure Cooker,Kolkata,West Bengal,3,30186.31,12.0,79691.86,Cash on Delivery,Cancelled,4.9
+ORD10837,2023-05-24,May,Q2,Home & Kitchen,Mixer Grinder,Chennai,Tamil Nadu,5,40968.23,22.0,159776.1,UPI,Delivered,2.6
+ORD10838,2023-11-02,November,Q4,Sports,Football,Delhi,Delhi,3,9508.31,19.0,23105.19,Net Banking,Cancelled,4.2
+ORD10839,2023-12-26,December,Q4,Beauty,Sunscreen,Jaipur,Rajasthan,3,30824.35,17.0,76752.63,Net Banking,Delivered,2.9
+ORD10840,2023-05-22,May,Q2,Grocery,Dal 1kg,Mumbai,Maharashtra,2,34676.37,19.0,56175.72,Net Banking,Delivered,3.0
+ORD10841,2023-10-12,October,Q4,Toys,Board Game,Pune,Maharashtra,2,41312.91,0.0,82625.82,UPI,Delivered,2.5
+ORD10842,2023-01-06,January,Q1,Clothing,Jeans,Hyderabad,Telangana,4,9760.45,23.0,30062.19,Credit Card,Delivered,4.4
+ORD10843,2023-09-22,September,Q3,Sports,Football,Hyderabad,Telangana,2,10986.3,10.0,19775.34,Cash on Delivery,Delivered,2.9
+ORD10844,2023-04-08,April,Q2,Home & Kitchen,Pressure Cooker,Mumbai,Maharashtra,2,42151.93,36.0,53954.47,Debit Card,Returned,2.6
+ORD10845,2023-02-13,February,Q1,Clothing,Saree,Chennai,Tamil Nadu,3,22837.37,15.0,58235.29,Debit Card,Cancelled,3.4
+ORD10846,2023-05-04,May,Q2,Toys,LEGO Set,Delhi,Delhi,2,44142.02,5.0,83869.84,Cash on Delivery,Returned,3.0
+ORD10847,2023-07-28,July,Q3,Beauty,Perfume,Jaipur,Rajasthan,4,48850.23,10.0,175860.83,Cash on Delivery,Cancelled,2.6
+ORD10848,2023-09-08,September,Q3,Sports,Badminton Set,Hyderabad,Telangana,2,16417.65,2.0,32178.59,Debit Card,Cancelled,4.5
+ORD10849,2023-10-12,October,Q4,Grocery,Dal 1kg,Delhi,Delhi,4,39560.31,25.0,118680.93,Net Banking,Cancelled,2.9
+ORD10850,2023-05-04,May,Q2,Beauty,Lipstick,Ahmedabad,Gujarat,4,8990.98,28.0,25894.02,Net Banking,Returned,3.8
+ORD10851,2023-12-20,December,Q4,Grocery,Oil 1L,Jaipur,Rajasthan,4,31923.37,32.0,86831.57,Debit Card,Delivered,4.1
+ORD10852,2023-09-01,September,Q3,Sports,Dumbbells,Chennai,Tamil Nadu,4,10968.76,17.0,36416.28,Debit Card,Delivered,3.4
+ORD10853,2023-11-27,November,Q4,Books,Children Book,Delhi,Delhi,2,37593.56,12.0,66164.67,Debit Card,Cancelled,3.8
+ORD10854,2023-12-31,December,Q4,Electronics,Smart Watch,Ahmedabad,Gujarat,5,16851.88,18.0,69092.71,UPI,Returned,3.6
+ORD10855,2023-09-09,September,Q3,Beauty,Perfume,Pune,Maharashtra,1,9019.31,9.0,8207.57,UPI,Delivered,4.1
+ORD10856,2023-08-18,August,Q3,Books,Children Book,Ahmedabad,Gujarat,5,32200.54,31.0,111091.86,Credit Card,Delivered,4.8
+ORD10857,2023-01-09,January,Q1,Clothing,Saree,Mumbai,Maharashtra,5,10055.31,8.0,46254.43,UPI,Delivered,3.3
+ORD10858,2023-02-17,February,Q1,Sports,Badminton Set,Bangalore,Karnataka,5,45623.51,0.0,228117.55,UPI,Returned,3.2
+ORD10859,2023-05-31,May,Q2,Toys,Puzzle,Mumbai,Maharashtra,4,32721.85,40.0,78532.44,Net Banking,Delivered,4.9
+ORD10860,2023-04-24,April,Q2,Sports,Football,Kolkata,West Bengal,2,25815.48,31.0,35625.36,Net Banking,Delivered,4.4
+ORD10861,2023-07-27,July,Q3,Clothing,Saree,Chennai,Tamil Nadu,4,38518.05,28.0,110931.98,Net Banking,Cancelled,3.0
+ORD10862,2023-12-21,December,Q4,Electronics,Headphones,Bangalore,Karnataka,5,43693.82,12.0,192252.81,Net Banking,Delivered,4.3
+ORD10863,2023-05-05,May,Q2,Beauty,Shampoo,Pune,Maharashtra,4,34303.85,16.0,115260.94,Cash on Delivery,Delivered,4.4
+ORD10864,2023-06-06,June,Q2,Beauty,Sunscreen,Mumbai,Maharashtra,5,39278.62,37.0,123727.65,UPI,Cancelled,2.9
+ORD10865,2023-12-06,December,Q4,Toys,RC Car,Chennai,Tamil Nadu,4,3232.28,15.0,10989.75,UPI,Cancelled,3.7
+ORD10866,2023-10-25,October,Q4,Grocery,Oil 1L,Delhi,Delhi,2,5260.44,22.0,8206.29,Cash on Delivery,Returned,2.6
+ORD10867,2023-07-08,July,Q3,Electronics,Laptop,Chennai,Tamil Nadu,1,45571.7,15.0,38735.94,UPI,Cancelled,3.0
+ORD10868,2023-08-31,August,Q3,Clothing,Kurta,Mumbai,Maharashtra,3,25950.66,7.0,72402.34,Net Banking,Returned,4.6
+ORD10869,2023-10-11,October,Q4,Home & Kitchen,Mixer Grinder,Bangalore,Karnataka,5,20949.74,30.0,73324.09,Debit Card,Delivered,3.5
+ORD10870,2023-09-29,September,Q3,Sports,Yoga Mat,Pune,Maharashtra,4,7981.12,23.0,24581.85,Debit Card,Cancelled,3.3
+ORD10871,2023-06-26,June,Q2,Grocery,Oil 1L,Chennai,Tamil Nadu,1,49554.7,18.0,40634.85,Cash on Delivery,Delivered,4.6
+ORD10872,2023-08-06,August,Q3,Beauty,Sunscreen,Kolkata,West Bengal,4,23161.64,2.0,90793.63,Net Banking,Delivered,2.7
+ORD10873,2023-10-09,October,Q4,Books,UPSC Guide,Jaipur,Rajasthan,2,20781.89,7.0,38654.32,Net Banking,Returned,4.0
+ORD10874,2023-06-19,June,Q2,Toys,Board Game,Jaipur,Rajasthan,1,19707.89,38.0,12218.89,Debit Card,Delivered,3.1
+ORD10875,2023-06-30,June,Q2,Books,Data Science Book,Chennai,Tamil Nadu,4,20593.34,30.0,57661.35,UPI,Delivered,2.8
+ORD10876,2023-12-26,December,Q4,Clothing,Jacket,Madurai,Tamil Nadu,4,22574.25,10.0,81267.3,Net Banking,Delivered,3.8
+ORD10877,2023-08-21,August,Q3,Clothing,Kurta,Pune,Maharashtra,3,37310.57,34.0,73874.93,Credit Card,Delivered,3.5
+ORD10878,2023-05-19,May,Q2,Clothing,Jeans,Madurai,Tamil Nadu,4,24263.72,3.0,94143.23,Debit Card,Returned,3.9
+ORD10879,2023-06-06,June,Q2,Home & Kitchen,Curtains,Hyderabad,Telangana,2,8570.93,1.0,16970.44,UPI,Delivered,2.8
+ORD10880,2023-05-09,May,Q2,Toys,Board Game,Delhi,Delhi,1,33885.29,6.0,31852.17,Debit Card,Delivered,3.4
+ORD10881,2023-04-29,April,Q2,Sports,Dumbbells,Mumbai,Maharashtra,5,32068.56,29.0,113843.39,Net Banking,Delivered,4.7
+ORD10882,2023-03-03,March,Q1,Grocery,Rice 5kg,Jaipur,Rajasthan,1,2480.8,15.0,2108.68,Debit Card,Delivered,3.0
+ORD10883,2023-04-09,April,Q2,Sports,Football,Delhi,Delhi,1,21113.05,40.0,12667.83,Debit Card,Delivered,3.3
+ORD10884,2023-06-11,June,Q2,Sports,Cricket Bat,Bangalore,Karnataka,2,2248.42,21.0,3552.5,UPI,Cancelled,4.5
+ORD10885,2023-03-03,March,Q1,Sports,Badminton Set,Chennai,Tamil Nadu,5,19783.44,17.0,82101.28,Credit Card,Delivered,3.1
+ORD10886,2023-10-02,October,Q4,Beauty,Shampoo,Mumbai,Maharashtra,4,32716.94,0.0,130867.76,Debit Card,Delivered,3.0
+ORD10887,2023-12-20,December,Q4,Books,Children Book,Madurai,Tamil Nadu,1,3413.2,9.0,3106.01,Cash on Delivery,Returned,3.3
+ORD10888,2023-04-05,April,Q2,Clothing,Jacket,Jaipur,Rajasthan,2,12634.41,4.0,24258.07,Net Banking,Delivered,3.3
+ORD10889,2023-04-09,April,Q2,Beauty,Shampoo,Madurai,Tamil Nadu,4,3422.3,1.0,13552.31,Net Banking,Returned,4.8
+ORD10890,2023-04-21,April,Q2,Sports,Badminton Set,Jaipur,Rajasthan,1,11668.66,25.0,8751.49,UPI,Delivered,4.7
+ORD10891,2023-09-05,September,Q3,Toys,Board Game,Jaipur,Rajasthan,1,3043.15,15.0,2586.68,Debit Card,Returned,3.2
+ORD10892,2023-05-22,May,Q2,Sports,Cricket Bat,Chennai,Tamil Nadu,5,49428.14,18.0,202655.37,Debit Card,Delivered,4.7
+ORD10893,2023-10-29,October,Q4,Beauty,Face Cream,Ahmedabad,Gujarat,4,32419.92,12.0,114118.12,UPI,Delivered,2.6
+ORD10894,2023-09-26,September,Q3,Sports,Football,Ahmedabad,Gujarat,1,45336.27,27.0,33095.48,Debit Card,Cancelled,3.1
+ORD10895,2023-11-02,November,Q4,Toys,Puzzle,Madurai,Tamil Nadu,2,22145.93,0.0,44291.86,Credit Card,Delivered,4.7
+ORD10896,2023-05-25,May,Q2,Electronics,Laptop,Chennai,Tamil Nadu,2,4633.38,24.0,7042.74,Debit Card,Delivered,4.6
+ORD10897,2023-02-21,February,Q1,Clothing,Kurta,Kolkata,West Bengal,3,8249.73,8.0,22769.25,Cash on Delivery,Delivered,3.6
+ORD10898,2023-04-10,April,Q2,Books,Novel,Jaipur,Rajasthan,4,48387.9,8.0,178067.47,Net Banking,Delivered,4.7
+ORD10899,2023-06-01,June,Q2,Beauty,Lipstick,Pune,Maharashtra,2,23562.14,17.0,39113.15,Net Banking,Delivered,4.0
+ORD10900,2023-04-27,April,Q2,Grocery,Rice 5kg,Pune,Maharashtra,4,42709.41,30.0,119586.35,Cash on Delivery,Cancelled,4.8
+ORD10901,2023-07-04,July,Q3,Home & Kitchen,Water Bottle,Bangalore,Karnataka,3,19053.49,12.0,50301.21,Cash on Delivery,Cancelled,3.2
+ORD10902,2023-04-02,April,Q2,Grocery,Rice 5kg,Madurai,Tamil Nadu,2,35757.43,8.0,65793.67,Credit Card,Delivered,4.8
+ORD10903,2023-06-04,June,Q2,Beauty,Lipstick,Pune,Maharashtra,4,47017.24,39.0,114722.07,Net Banking,Delivered,3.4
+ORD10904,2023-01-08,January,Q1,Clothing,Kurta,Mumbai,Maharashtra,1,19272.06,23.0,14839.49,Net Banking,Delivered,3.0
+ORD10905,2023-12-29,December,Q4,Beauty,Sunscreen,Kolkata,West Bengal,3,34837.95,26.0,77340.25,Debit Card,Delivered,4.8
+ORD10906,2023-10-01,October,Q4,Grocery,Rice 5kg,Madurai,Tamil Nadu,1,34888.7,26.0,25817.64,Net Banking,Delivered,3.2
+ORD10907,2023-03-06,March,Q1,Books,Python Guide,Jaipur,Rajasthan,5,47591.32,34.0,157051.36,Credit Card,Returned,2.5
+ORD10908,2023-05-21,May,Q2,Toys,Puzzle,Delhi,Delhi,5,45501.96,35.0,147881.37,Net Banking,Delivered,2.9
+ORD10909,2023-01-24,January,Q1,Books,Children Book,Ahmedabad,Gujarat,4,29324.68,29.0,83282.09,Credit Card,Delivered,4.4
+ORD10910,2023-01-28,January,Q1,Beauty,Shampoo,Hyderabad,Telangana,2,46504.34,16.0,78127.29,Debit Card,Returned,3.3
+ORD10911,2023-10-11,October,Q4,Electronics,Smartphone,Delhi,Delhi,4,26271.85,26.0,77764.68,Debit Card,Delivered,4.3
+ORD10912,2023-05-30,May,Q2,Beauty,Shampoo,Bangalore,Karnataka,2,24349.24,20.0,38958.78,Cash on Delivery,Delivered,2.8
+ORD10913,2023-12-24,December,Q4,Home & Kitchen,Pressure Cooker,Mumbai,Maharashtra,2,40468.47,8.0,74461.98,Net Banking,Returned,5.0
+ORD10914,2023-03-06,March,Q1,Clothing,Jeans,Delhi,Delhi,3,4331.07,5.0,12343.55,Credit Card,Cancelled,2.7
+ORD10915,2023-11-23,November,Q4,Sports,Dumbbells,Kolkata,West Bengal,1,524.85,11.0,467.12,Cash on Delivery,Delivered,4.9
+ORD10916,2023-09-09,September,Q3,Clothing,Jeans,Ahmedabad,Gujarat,1,18814.51,21.0,14863.46,UPI,Returned,4.9
+ORD10917,2023-02-22,February,Q1,Grocery,Oil 1L,Jaipur,Rajasthan,4,16860.68,27.0,49233.19,UPI,Delivered,3.4
+ORD10918,2023-01-07,January,Q1,Beauty,Lipstick,Pune,Maharashtra,5,2909.22,14.0,12509.65,Credit Card,Delivered,3.3
+ORD10919,2023-10-21,October,Q4,Grocery,Tea 250g,Bangalore,Karnataka,1,30115.36,35.0,19574.98,Debit Card,Delivered,3.2
+ORD10920,2023-05-26,May,Q2,Grocery,Biscuits,Kolkata,West Bengal,5,20685.67,8.0,95154.08,UPI,Delivered,5.0
+ORD10921,2023-08-29,August,Q3,Beauty,Face Cream,Madurai,Tamil Nadu,4,11716.25,19.0,37960.65,Credit Card,Delivered,4.3
+ORD10922,2023-09-03,September,Q3,Toys,RC Car,Delhi,Delhi,4,14728.46,8.0,54200.73,Cash on Delivery,Cancelled,2.9
+ORD10923,2023-08-14,August,Q3,Electronics,Laptop,Kolkata,West Bengal,1,15102.35,27.0,11024.72,Net Banking,Delivered,3.9
+ORD10924,2023-06-24,June,Q2,Grocery,Rice 5kg,Kolkata,West Bengal,5,12083.04,8.0,55581.98,Credit Card,Delivered,4.4
+ORD10925,2023-04-05,April,Q2,Toys,LEGO Set,Bangalore,Karnataka,3,45137.29,31.0,93434.19,UPI,Returned,3.1
+ORD10926,2023-01-27,January,Q1,Clothing,Jeans,Ahmedabad,Gujarat,4,4567.57,28.0,13154.6,Cash on Delivery,Cancelled,4.7
+ORD10927,2023-05-10,May,Q2,Clothing,Saree,Pune,Maharashtra,4,32713.29,31.0,90288.68,Net Banking,Delivered,4.9
+ORD10928,2023-09-02,September,Q3,Sports,Yoga Mat,Delhi,Delhi,3,4429.63,4.0,12757.33,Debit Card,Delivered,4.4
+ORD10929,2023-02-28,February,Q1,Beauty,Shampoo,Madurai,Tamil Nadu,4,28867.0,0.0,115468.0,Cash on Delivery,Delivered,2.7
+ORD10930,2023-02-03,February,Q1,Toys,RC Car,Madurai,Tamil Nadu,3,39886.03,37.0,75384.6,Cash on Delivery,Cancelled,2.8
+ORD10931,2023-07-25,July,Q3,Sports,Cricket Bat,Pune,Maharashtra,1,26937.73,18.0,22088.94,UPI,Delivered,2.9
+ORD10932,2023-09-09,September,Q3,Grocery,Tea 250g,Bangalore,Karnataka,5,14205.47,30.0,49719.14,Credit Card,Cancelled,4.6
+ORD10933,2023-02-07,February,Q1,Beauty,Perfume,Ahmedabad,Gujarat,1,13708.95,34.0,9047.91,Debit Card,Returned,3.9
+ORD10934,2023-10-23,October,Q4,Books,UPSC Guide,Mumbai,Maharashtra,3,7677.48,29.0,16353.03,Debit Card,Delivered,4.6
+ORD10935,2023-11-19,November,Q4,Home & Kitchen,Curtains,Pune,Maharashtra,3,49220.26,26.0,109268.98,Credit Card,Cancelled,4.6
+ORD10936,2023-12-18,December,Q4,Toys,Doll,Pune,Maharashtra,4,49516.2,30.0,138645.36,Cash on Delivery,Delivered,3.5
+ORD10937,2023-01-28,January,Q1,Books,Python Guide,Ahmedabad,Gujarat,4,4911.11,13.0,17090.66,Credit Card,Delivered,4.5
+ORD10938,2023-03-19,March,Q1,Grocery,Dal 1kg,Jaipur,Rajasthan,2,22122.09,19.0,35837.79,Debit Card,Delivered,4.7
+ORD10939,2023-03-18,March,Q1,Sports,Cricket Bat,Madurai,Tamil Nadu,5,5142.29,31.0,17740.9,Net Banking,Returned,4.6
+ORD10940,2023-10-16,October,Q4,Home & Kitchen,Mixer Grinder,Delhi,Delhi,3,48709.23,7.0,135898.75,Cash on Delivery,Delivered,2.6
+ORD10941,2023-06-05,June,Q2,Toys,Board Game,Pune,Maharashtra,2,1747.94,10.0,3146.29,Cash on Delivery,Delivered,3.7
+ORD10942,2023-02-13,February,Q1,Toys,LEGO Set,Kolkata,West Bengal,4,13797.04,26.0,40839.24,Credit Card,Delivered,3.4
+ORD10943,2023-05-08,May,Q2,Clothing,T-Shirt,Kolkata,West Bengal,5,11285.51,23.0,43449.21,Net Banking,Delivered,5.0
+ORD10944,2023-03-02,March,Q1,Clothing,Jacket,Bangalore,Karnataka,4,24235.36,26.0,71736.67,Cash on Delivery,Delivered,3.6
+ORD10945,2023-10-13,October,Q4,Clothing,Saree,Delhi,Delhi,5,9285.25,33.0,31105.59,Cash on Delivery,Cancelled,2.5
+ORD10946,2023-08-02,August,Q3,Grocery,Rice 5kg,Ahmedabad,Gujarat,5,26972.14,33.0,90356.67,Debit Card,Delivered,4.1
+ORD10947,2023-11-07,November,Q4,Home & Kitchen,Water Bottle,Bangalore,Karnataka,1,27758.35,32.0,18875.68,Debit Card,Cancelled,2.8
+ORD10948,2023-11-02,November,Q4,Sports,Football,Delhi,Delhi,5,12875.19,30.0,45063.17,Credit Card,Cancelled,2.7
+ORD10949,2023-11-13,November,Q4,Books,Novel,Ahmedabad,Gujarat,2,21181.41,38.0,26264.95,UPI,Delivered,2.5
+ORD10950,2023-04-26,April,Q2,Books,Children Book,Kolkata,West Bengal,2,28874.72,28.0,41579.6,UPI,Cancelled,3.8
+ORD10951,2023-09-25,September,Q3,Sports,Cricket Bat,Mumbai,Maharashtra,2,1884.86,6.0,3543.54,Debit Card,Delivered,4.6
+ORD10952,2023-07-14,July,Q3,Sports,Badminton Set,Madurai,Tamil Nadu,3,6468.18,25.0,14553.41,UPI,Delivered,2.7
+ORD10953,2023-08-19,August,Q3,Toys,Board Game,Pune,Maharashtra,4,4208.54,10.0,15150.74,Debit Card,Cancelled,3.6
+ORD10954,2023-08-15,August,Q3,Sports,Cricket Bat,Hyderabad,Telangana,2,35736.53,23.0,55034.26,Cash on Delivery,Cancelled,4.1
+ORD10955,2023-06-02,June,Q2,Home & Kitchen,Curtains,Bangalore,Karnataka,3,49622.83,17.0,123560.85,Cash on Delivery,Delivered,2.6
+ORD10956,2023-10-29,October,Q4,Clothing,Saree,Delhi,Delhi,5,5544.01,22.0,21621.64,Credit Card,Delivered,2.7
+ORD10957,2023-08-08,August,Q3,Beauty,Perfume,Bangalore,Karnataka,2,13718.66,4.0,26339.83,Debit Card,Returned,4.9
+ORD10958,2023-06-06,June,Q2,Clothing,T-Shirt,Bangalore,Karnataka,5,36429.95,12.0,160291.78,Net Banking,Delivered,4.6
+ORD10959,2023-10-19,October,Q4,Beauty,Sunscreen,Hyderabad,Telangana,5,13589.15,4.0,65227.92,UPI,Returned,2.6
+ORD10960,2023-11-14,November,Q4,Home & Kitchen,Bedsheet,Ahmedabad,Gujarat,5,29751.12,34.0,98178.7,Debit Card,Delivered,3.7
+ORD10961,2023-01-31,January,Q1,Electronics,Tablet,Bangalore,Karnataka,2,7176.37,23.0,11051.61,UPI,Delivered,3.2
+ORD10962,2023-11-09,November,Q4,Toys,RC Car,Bangalore,Karnataka,4,49313.0,32.0,134131.36,UPI,Returned,3.8
+ORD10963,2023-02-20,February,Q1,Sports,Yoga Mat,Delhi,Delhi,3,20355.41,13.0,53127.62,Credit Card,Delivered,2.7
+ORD10964,2023-04-17,April,Q2,Sports,Cricket Bat,Bangalore,Karnataka,5,2917.71,30.0,10211.99,Net Banking,Delivered,3.9
+ORD10965,2023-11-17,November,Q4,Toys,Puzzle,Bangalore,Karnataka,4,24915.37,27.0,72752.88,Cash on Delivery,Delivered,4.2
+ORD10966,2023-04-19,April,Q2,Toys,LEGO Set,Jaipur,Rajasthan,2,45548.78,30.0,63768.29,Cash on Delivery,Delivered,4.3
+ORD10967,2023-05-16,May,Q2,Sports,Badminton Set,Jaipur,Rajasthan,1,30388.31,39.0,18536.87,Cash on Delivery,Delivered,4.2
+ORD10968,2023-12-05,December,Q4,Home & Kitchen,Mixer Grinder,Madurai,Tamil Nadu,2,25708.54,38.0,31878.59,Net Banking,Delivered,3.6
+ORD10969,2023-02-11,February,Q1,Beauty,Face Cream,Madurai,Tamil Nadu,2,41594.73,34.0,54905.04,UPI,Delivered,4.6
+ORD10970,2023-03-22,March,Q1,Grocery,Oil 1L,Hyderabad,Telangana,2,161.6,25.0,242.4,UPI,Cancelled,3.5
+ORD10971,2023-05-03,May,Q2,Electronics,Smart Watch,Jaipur,Rajasthan,4,2921.96,0.0,11687.84,UPI,Delivered,3.7
+ORD10972,2023-03-30,March,Q1,Clothing,T-Shirt,Madurai,Tamil Nadu,2,20133.3,0.0,40266.6,Debit Card,Delivered,3.6
+ORD10973,2023-10-10,October,Q4,Home & Kitchen,Curtains,Delhi,Delhi,4,395.18,31.0,1090.7,Net Banking,Returned,3.1
+ORD10974,2023-02-08,February,Q1,Beauty,Perfume,Madurai,Tamil Nadu,4,44615.06,21.0,140983.59,Net Banking,Returned,3.2
+ORD10975,2023-03-22,March,Q1,Home & Kitchen,Pressure Cooker,Madurai,Tamil Nadu,4,340.22,35.0,884.57,Credit Card,Delivered,4.3
+ORD10976,2023-01-02,January,Q1,Books,Data Science Book,Bangalore,Karnataka,4,21081.74,13.0,73364.46,Debit Card,Returned,2.6
+ORD10977,2023-07-29,July,Q3,Books,Data Science Book,Pune,Maharashtra,4,27528.68,32.0,74878.01,UPI,Returned,4.3
+ORD10978,2023-08-19,August,Q3,Toys,Board Game,Delhi,Delhi,1,39646.01,5.0,37663.71,Credit Card,Delivered,3.4
+ORD10979,2023-12-19,December,Q4,Electronics,Headphones,Pune,Maharashtra,5,36884.71,17.0,153071.55,Net Banking,Delivered,3.2
+ORD10980,2023-11-01,November,Q4,Toys,Board Game,Jaipur,Rajasthan,2,36475.97,7.0,67845.3,Credit Card,Delivered,3.2
+ORD10981,2023-08-29,August,Q3,Sports,Dumbbells,Chennai,Tamil Nadu,4,35337.72,32.0,96118.6,Cash on Delivery,Cancelled,4.3
+ORD10982,2023-05-30,May,Q2,Home & Kitchen,Pressure Cooker,Jaipur,Rajasthan,2,11507.74,5.0,21864.71,Debit Card,Delivered,2.6
+ORD10983,2023-01-17,January,Q1,Toys,LEGO Set,Jaipur,Rajasthan,2,4592.22,2.0,9000.75,UPI,Delivered,3.5
+ORD10984,2023-04-29,April,Q2,Sports,Yoga Mat,Pune,Maharashtra,4,3114.42,17.0,10339.87,Credit Card,Delivered,2.6
+ORD10985,2023-05-28,May,Q2,Beauty,Perfume,Madurai,Tamil Nadu,4,12386.08,36.0,31708.36,Credit Card,Delivered,3.0
+ORD10986,2023-12-28,December,Q4,Beauty,Shampoo,Hyderabad,Telangana,4,14043.96,24.0,42693.64,UPI,Returned,3.6
+ORD10987,2023-05-25,May,Q2,Beauty,Perfume,Hyderabad,Telangana,1,4889.52,1.0,4840.62,Debit Card,Delivered,3.9
+ORD10988,2023-12-26,December,Q4,Beauty,Perfume,Jaipur,Rajasthan,5,30255.45,10.0,136149.53,Cash on Delivery,Returned,3.2
+ORD10989,2023-08-21,August,Q3,Clothing,T-Shirt,Bangalore,Karnataka,5,6061.7,23.0,23337.54,Debit Card,Delivered,4.8
+ORD10990,2023-02-06,February,Q1,Grocery,Rice 5kg,Delhi,Delhi,5,30969.57,12.0,136266.11,Debit Card,Cancelled,3.7
+ORD10991,2023-12-18,December,Q4,Home & Kitchen,Mixer Grinder,Bangalore,Karnataka,2,20939.72,28.0,30153.2,Cash on Delivery,Delivered,4.7
+ORD10992,2023-04-30,April,Q2,Beauty,Lipstick,Delhi,Delhi,4,3432.04,17.0,11394.37,Cash on Delivery,Delivered,4.8
+ORD10993,2023-05-16,May,Q2,Home & Kitchen,Water Bottle,Hyderabad,Telangana,2,14518.33,38.0,18002.73,Debit Card,Returned,2.7
+ORD10994,2023-11-17,November,Q4,Grocery,Biscuits,Ahmedabad,Gujarat,1,8317.64,30.0,5822.35,Net Banking,Returned,3.5
+ORD10995,2023-10-29,October,Q4,Books,Python Guide,Bangalore,Karnataka,1,8042.15,9.0,7318.36,Cash on Delivery,Returned,4.2
+ORD10996,2023-12-05,December,Q4,Books,Novel,Chennai,Tamil Nadu,3,35427.32,22.0,82899.93,Credit Card,Cancelled,2.9
+ORD10997,2023-04-12,April,Q2,Sports,Yoga Mat,Mumbai,Maharashtra,2,47105.2,11.0,83847.26,Credit Card,Delivered,2.8
+ORD10998,2023-08-06,August,Q3,Sports,Badminton Set,Delhi,Delhi,1,32449.84,25.0,24337.38,UPI,Delivered,4.9
+ORD10999,2023-02-28,February,Q1,Books,Python Guide,Pune,Maharashtra,5,14780.02,39.0,45079.06,Credit Card,Delivered,4.1
